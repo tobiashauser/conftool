@@ -22,6 +22,7 @@ let package = Package(
 		.package(url: "https://github.com/pointfreeco/swift-html", from: "0.4.0"),
 		.package(url: "https://github.com/pointfreeco/swift-web", branch: "master"),
 		.package(url: "https://github.com/swiftcsv/SwiftCSV.git", from: "0.8.0"),
+		.package(url: "https://github.com/YusukeHosonuma/SwiftPrettyPrint", from: "1.2.0"),
 	],
 	targets: [
 		.executableTarget(
@@ -31,6 +32,7 @@ let package = Package(
 				.product(name: "Cadenza", package: "swift-cadenza"),
 				"Core",
 				.product(name: "Files", package: "Files"),
+				.product(name: "SwiftPrettyPrint", package: "SwiftPrettyPrint"),
 				.product(name: "SwiftCSV", package: "SwiftCSV"),
 			]),
 		
@@ -38,11 +40,15 @@ let package = Package(
 			name: "Core",
 			dependencies: [
 				.product(name: "Cadenza", package: "swift-cadenza"),
-				.product(name: "Html", package: "swift-html"),
 				.product(name: "Css", package: "swift-web"),
+				.product(name: "Files", package: "Files"),
+				.product(name: "Html", package: "swift-html"),
 				.product(name: "HtmlCssSupport", package: "swift-web"),
+				.product(name: "SwiftPrettyPrint", package: "SwiftPrettyPrint"),
 				.product(name: "SwiftCSV", package: "SwiftCSV"),
-			]),
+			],
+			resources: [.process("script.js")]
+		),
 		.testTarget(
 			name: "CoreTests",
 			dependencies: [

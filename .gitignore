@@ -7,3 +7,5 @@ DerivedData/
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 Package.resolved
 *.taskpaper.bak
+.swiftpm/
+.build/
