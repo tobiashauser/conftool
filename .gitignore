@@ -9,9 +9,9 @@ Package.resolved
 *.taskpaper.bak
 .swiftpm/
 .build/
-additions.csv
-biographies.csv
-colors.csv
-links.csv
-output/
-abstracts.csv
+# additions.csv
+# biographies.csv
+# colors.csv
+# links.csv
+# output/
+# abstracts.csv
