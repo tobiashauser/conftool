@@ -1,0 +1,166 @@
+
+html {
+  font-family : -apple-system,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size   : 14px;
+  line-height : 1.25rem;
+}
+
+body {
+  display        : block;
+  margin-top     : 0px;
+  margin-right   : 8px;
+  margin-bottom  : 8px;
+  margin-left    : 8px;
+  padding-top    : 0rem;
+  padding-right  : 2rem;
+  padding-bottom : 2rem;
+  padding-left   : 2rem;
+}
+
+sup, sub {
+  top            : -0.4em;
+  vertical-align : baseline;
+  position       : relative;
+  z-index        : -1;
+}
+
+sub {
+  top : 0.4em;
+}
+
+p {
+  margin-top    : 0;
+  margin-right  : 0;
+  margin-bottom : 0;
+  margin-left   : 0;
+}
+
+.button:hover {
+  cursor : pointer;
+}
+
+.highlightColor:hover {
+  color : #000000;
+}
+
+.highlightUnderline:hover {
+  text-decoration : underline;
+}
+
+dialog::backdrop {
+  position         : fixed;
+  background-color : rgba(0,0,0,0.4);
+}
+
+*:focus {
+  outline-style : none;
+}
+
+.header {
+  display                : flex;
+  -webkit-flex           : flex;
+  flex-direction         : row;
+  -webkit-flex-direction : row;
+  overflow               : scroll;
+  column-gap             : 0.2em;
+  font-weight            : 700;
+  padding-top            : 2rem;
+  padding-bottom         : 2rem;
+  position               : sticky;
+  top                    : 0;
+  background-color       : #ffffff;
+}
+
+.header::-webkit-scrollbar {
+  display : none;
+}
+
+.header .push {
+  margin-left : auto;
+}
+
+.headerItem {
+  white-space : nowrap;
+}
+
+hr {
+  margin-top    : 2rem;
+  margin-bottom : 2rem;
+}
+
+.entry {
+  scroll-margin : 5rem;
+}
+
+.callout {
+  font-weight    : 700;
+  font-size      : 0.75rem;
+  text-transform : uppercase;
+  letter-spacing : 0.54pt;
+}
+
+.heading {
+  font-size     : 1.25rem;
+  font-weight   : 700;
+  line-height   : 1.45rem;
+  margin-top    : 1rem;
+  margin-bottom : 0.5rem;
+}
+
+.abstract {
+  font-size   : 1rem;
+  line-height : 1.35rem;
+  max-height  : 6.55rem;
+  overflow    : hidden;
+}
+
+.session, .expand, .collapse {
+  color       : #808080;
+  font-size   : 0.85rem;
+  padding-top : 0.5rem;
+}
+
+.session {
+  float : right;
+}
+
+.expand {
+  display : inline-block;
+}
+
+.collapse {
+  display : none;
+}
+
+.caption {
+  font-size      : 0.85rem;
+  font-weight    : 500;
+  letter-spacing : 0.3pt;
+  display        : inline-block;
+}
+
+.heading, .caption {
+  margin-top : 1rem;
+}
+
+dialog {
+  border-top-left-radius     : 0.5rem;
+  border-top-right-radius    : 0.5rem;
+  border-bottom-right-radius : 0.5rem;
+  border-bottom-left-radius  : 0.5rem;
+  max-width                  : 75vw;
+  max-height                 : 80vh;
+  box-shadow                 : 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  touch-action               : none;
+}
+
+.biography {
+  font-size      : 0.85rem;
+  font-weight    : 500;
+  letter-spacing : 0.3pt;
+}
+
+.pastEvent {
+  color : gray!important;
+}
+
