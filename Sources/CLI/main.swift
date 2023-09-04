@@ -159,8 +159,7 @@ struct Main: ParsableCommand {
 			
 			let (entries, failing) = Core.data(biographies, abstracts, locale: localeData, colors: colorData)
 			
-//			let cwd = try Folder(path: FileManager().currentDirectoryPath)
-			let cwd = try Folder(path: "/Users/tobiashauser/Binder/40-49 Projects/42 Programmieren/42.44 confplan")
+			let cwd = try Folder(path: FileManager().currentDirectoryPath)
 			let output = try cwd.createSubfolderIfNeeded(withName: "output")
 			
 			let index = try output.createFileIfNeeded(withName: "index.html")
