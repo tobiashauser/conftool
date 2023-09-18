@@ -130,7 +130,7 @@ extension Entry {
 			uid: String(self.id),
 			classification: nil,
 			created: nil,
-			description: self.abstract,
+			description: self.sanitizedAbstract,
 			dtstart: ICalDateTime.dateTime(self.starttime),
 			lastModified: nil,
 			location: self.location,
@@ -182,7 +182,11 @@ extension Entry {
 	///
 	/// NOT NECESSARY. I think the html tags are stripped by the calendar.
 	var sanitizedAbstract: String? {
-		self.abstract
+//		self.abstract?.replacing(/[abc]/, with: "blob")
+		let regex = try! Regex("<.*?>")
+		return self.abstract?.replacing(regex, with: { _ in
+			""
+		})
 	}
 	
 	/// The title for the ics-file.
