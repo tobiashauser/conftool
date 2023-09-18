@@ -175,7 +175,12 @@ extension Entry {
 	
 	/// The name of the ics-file
 	public var icsName: String {
-		String(self.id) + ".ics"
+//		String(self.id) + ".ics"
+		if let author = self.authors?.first?.lastname {
+			return author + ".ics"
+		} else {
+			return String(self.id) + ".ics"
+		}
 	}
 	
 	/// A version of the abstract that removes all HTML-tags.
