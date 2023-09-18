@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:101
+DESCRIPTION:<p>The epistemological rift between Schenkerian and neo-Riemann
+ ian theory runs deep. Particularly in relation to questions of musical time
+ \, this rift has profound hermeneutic implications\, as can be glimpsed\, f
+ or example\, through a comparison of David Beach’s and Suzannah Clark’s int
+ erpretations of the opening exposition of Schubert’s G major String Quartet
+  D. 887. Whereas Beach’s Schenkerian reading highlights with reference to t
+ he tonic-dominant axis a teleological — ‘end-accented’ — orientation of the
+  musical discourse\, effectively attributing to it a sense of ‘narrative’ t
+ ime as habitually associated with Beethoven’s heroic style\, Clark’s neo-Ri
+ emannian perspective discerns in the hexatonic cycling woven into the tonal
+  geometry a fingerprint of Schubert’s ‘lyrical’ imagination\, a mode of sus
+ pended temporality that she considers decisively ‘non-Beethovenian’ (or\, i
+ ndeed\, uniquely ‘Schubertian’). Owing to the specific epistemological cali
+ brations built into each respective theoretical lens\, these two interpreta
+ tions reveal a basic hermeneutic-logical contradiction: (how) is it possibl
+ e that the same music is teleological and non-teleological at once?</p>\n<p
+ > The aim of this paper is to critically reappraise this contradiction. Whi
+ le carrying no real weight in the arena of music analytical plausibility\, 
+ this contradiction drills down to the bedrock of all modern (post-Gadameria
+ n) hermeneutic philosophy: the cardinal problem that the ‘truth’ produced b
+ y a certain ‘method’ is critically shaped by it. Drawing upon Nelson Goodma
+ n’s concept of ‘world versions’ — a solipsistic-constructivist theory of co
+ nceptualising truth claims — this paper explores to what extent opposing in
+ terpretations of musical time can be understood as representing different ‘
+ versions’ arising from the multivalent symbol system which makes up the ind
+ ividual work\, the ‘world’. Once cast in this light\, the epistemological i
+ nconsistencies underpinning the hermeneutics of musical time can be reframe
+ d as heuristic opportunities\, rather than impasses\, in the way that they 
+ engage us to rethink the normative grounds for claims about musical time wi
+ thout all too conveniently essentialising it.</p>\n
+DTSTART:20230923T130000Z
+LOCATION:Raum 129 (Opernschule)\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Sebastian Wedler: Making Worlds of Musical Time: Nelson Goodman\, a
+ nd the Epistemological Divide Between Schenkerian and Neo-Riemannian Theory
+DTEND:20230923T133000Z
+END:VEVENT
+END:VCALENDAR

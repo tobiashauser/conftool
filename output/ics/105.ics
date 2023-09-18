@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:105
+DESCRIPTION:<p>In den letzten Jahren haben die Musikwissenschaften immer le
+ bhaftere Details der frühneuzeitlichen Aufführungspraxis ans Licht gebracht
+ \, zum Teil mit Hilfe der Digital Humanities. Überraschenderweise scheint j
+ edoch ein zentrales Thema von Musikwissenschaftlern oder Befürwortern einer
+  historisch informierten Aufführungspraxis nicht angesprochen worden zu sei
+ n. Bei der Aufführung von Instrumentalmusik aus dem 17. und 18. Jahrhundert
+  aus Faksimile-Ausgaben trifft man oft auf Fälle\, in denen ein V.S. (volti
+  subito [sofort umblättern]) oder ähnliche Markierungen weisen auf ein schn
+ elles Umblättern hin\, wenn es in der Musik wenig oder keine Pause gibt. Wi
+ e haben Musiker damals mitten in Stücken umgeblättert? In Anbetracht des Ma
+ ngels an Kopiergeräten\, der Papierknappheit und der Probleme beim manuelle
+ n Kopieren ist es ausgeschlossen\, zusätzliche Kopien zu haben. Haben sie a
+ uswendig gespielt oder hat jemand für sie umgeblättert?</p>\n<p>Anhand eine
+ r Kombination aus korpusbasierte Studie\, Ikonographie und Literatur aus di
+ eser Zeit untersuche ich die unterschiedlichen Umgangsweisen der damaligen 
+ Musiker mit diesem Thema. Ich studiere sowohl Solo- als auch Ensemblemusik 
+ und zeige\, dass verschiedene Instrumente und Ensembles unterschiedliche Au
+ fführungsarrangements erfordern\, die je nach verwendetem Instrument variie
+ ren. Darüber hinaus argumentiere ich\, dass die Praxis zwischen den Ländern
+  unterschiedlich war\, wobei ich die nationalen (und manchmal regionalen) A
+ ufführungspraktiken hervorhebe. Französische Drucke zum Beispiel waren viel
+  praktischer und ließen normalerweise genug Platz für ein Umblättern am End
+ e der Seiten\, während italienische und deutsche Drucke (und Manuskripte) d
+ em Interpreten oft sehr wenig Platz zum Umblättern lassen. Im letzteren Fal
+ l sollten Klavierspieler oft die Seite für Spieler von Melodieinstrumenten 
+ umblättern.</p>\n<p>Mit dem Aufkommen von IMSLP-Drucken und verschiedenen T
+ ablets – oft mit Pedalen\, die das Umblättern erleichtern – gehört das Umbl
+ ättern von Notenblättern für viele Musiker der Vergangenheit an. Wie ich je
+ doch in diesem Aufsatz zeigen möchte\, kann die Untersuchung der Art und We
+ ise\, wie Musiker der damaligen Zeit die Seiten umblätterten\, einige unerw
+ artete Aspekte der Aufführungspraxis der Musik aus dieser Zeit beleuchten\,
+  die bisher vernachlässigt wurden.</p>\n
+DTSTART:20230922T133000Z
+LOCATION:Raum 156\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Siavash Sabetrohani: Historisch informiertes Umblättern
+DTEND:20230922T140000Z
+END:VEVENT
+END:VCALENDAR

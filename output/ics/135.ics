@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:135
+DESCRIPTION:<p>In dieser Vortrag werden die Gemeinsamkeiten und Unterschied
+ e von Jodelliedern und Barbershop-Arrangements heraus gearbeitet.</p>\n<p>J
+ odeln wird das mitteleuropäische\, insbesondere alpenländische Singen auf L
+ autsilben mit häufigem Wechsel Registerwechsel bezeichnet. Diese Jodel bild
+ en in Jodelliedern den Abschluss zu textierten Strophen.</p>\n<p>Barbershop
+  ist ein amerikanischer A-cappella-Stil. Hierbei wird die Melodie in der zw
+ eitobersten Stimme intoniert. Ein "tag" bildet den Abschluss\, bei welchem 
+ ein ausgehaltener Schlusston durch die umgebenen\, wechselnden Harmonien au
+ sgeschmückt wird.</p>\n<p>Barbershop als originär amerikanische Musik und J
+ odel als vorwiegend alpenländische Musik werden mittlerweile beide in spezi
+ fischen Institutionen gefördert und bewahrt. In beiden Stilen werden Amateu
+ rgesangswettbewerbe veranstaltet\, Weiterbildungen angeboten\, Noten vertri
+ eben und versucht die Musik zu erhalten. Durch diese Institutionalisierung 
+ wird zwar der Stil bewahrt\, jedoch auch viele Neuerungsversuche unterbunde
+ n\, wobei in neuester Zeit eine Öffnung zu erleben ist. Daher wird anhand d
+ er stil- und auch Institutionsgeschichte den Entwicklungen nachgegangen.</p
+ >\n<p>Formale\, satztechnische als auch harmonische und melodische Aspekte 
+ werden somit wenig verändert und beibehalten. Diese Aspekte werden zum Ausg
+ angspunkt genommen um spezifische Stileigenschaften herauszuarbeiten. Dazu 
+ dienen insbesondere die Jodelchorlieder von Willi Valotti und ausgewählte B
+ arbershop-Arrangements als Anschauungsobjekt.</p>\n
+DTSTART:20230923T100000Z
+LOCATION:Raum 129 (Opernschule)\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Aron Salzmann: Jodellieder und Barbershop - A-cappella-Musik im Ver
+ gleich
+DTEND:20230923T103000Z
+END:VEVENT
+END:VCALENDAR

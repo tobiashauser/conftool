@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:155
+DESCRIPTION:<p>Das musiktheoretische Schaffen Pierre-Joseph Roussiers (1716
+ -1792) ist bis heute\, gerade im deutschsprachigen Raum\, wenig erforscht u
+ nd rezipiert. So findet sich beispielsweise weder ein Eintrag zu seiner Per
+ sönlichkeit\, noch zu seinen Schriften im MGG\; im New Grove Dictionary ist
+  lediglich eine knappe Zusammenfassung seines Schaffens aufgeführt. Die ein
+ zige Publikation\, die sich ausführlich und ausschließlich mit seinem Werk 
+ befasst\, ist die Dissertation von Richard D. Osborne\, die 1966 an der Ohi
+ o State University veröffentlicht wurde: <em>„The Theoretical Writings of A
+ bbé Pierre-Joseph Roussier“</em>.<br />Dabei handelt es sich bei Roussier u
+ m einen Musiktheoretiker\, der die Ideen seines berühmten Kollegen Jean-Phi
+ lippe Rameau in seinen eigenen musiktheoretischen Abhandlungen nicht nur au
+ fgriff\, sondern auch weiterentwickelte\, und der zugleich in den lebhaften
+  Diskussionen und der Musikforschung seiner Zeit mit den Enzyklopädisten ei
+ ne wichtige Rolle spielte\, wie ein an ihn gerichteter Brief von Jean-Jacqu
+ es Rousseau belegt.<br />Sein Hauptwerk\, der 1764 bereits mehrfach aufgele
+ gte <em>„Traité des Accords et de leur Succession selon le Système de la Ba
+ sse-Fondamentale“</em>\, bietet einerseits eine kompakte Übersicht und Zusa
+ mmenfassung des musiktheoretischen Systems des späten Rameaus\, andererseit
+ s weist er mit der Vorstellung von <em>„nouveaux accords“</em> im letzten A
+ bschnitt – die auch an die Akkordlehre von Georg Andreas Sorge erinnern – e
+ ine zukunftsweisende Blickrichtung auf.</p>\n
+DTSTART:20230923T153000Z
+LOCATION:Raum 137 (Rhythmiksaal)\nMendelssohn-Bartholdy-Platz 1\n79102 Frei
+ burg im Breisgau\nGermany
+SUMMARY:Iris Domine: Pierre-Joseph Roussier: ein Theoretiker im Schatten Je
+ an-Philippe Rameaus.
+DTEND:20230923T160000Z
+END:VEVENT
+END:VCALENDAR

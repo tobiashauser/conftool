@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:153
+DESCRIPTION:<p dir="ltr">My opera “La Locandiera”\, based on the celebrated
+  play by the eighteenth-century dramatist Carlo Goldoni\, premiered in Nove
+ mber 2022 in a performance involving students and associates of my universi
+ ty and which I directed personally from the harpsichord. Written in an eleg
+ ant Classical style\, “La Locandiera” pays homage to the late eighteenth-ce
+ ntury Viennese opera buffa tradition. This project will provide the focus f
+ or my presentation\, along with the following two theses:</p>\n<p dir="ltr"
+ >1. My opera\, composed in eighteenth-century style\, is a form of contempo
+ rary art\, participating in a growing creative movement centered around com
+ position in historical styles. From this perspective\, I will discuss certa
+ in aesthetic notions of authenticity\, forgery\, pastiche\, etc. in an effo
+ rt to situate such composition within a contemporary artistic context. I wi
+ ll also draw comparisons and discuss the relationship between composition i
+ n historical styles and various aspects of historically-informed performanc
+ e (HIP). Paralleling each other in various ways\, and my conception of the 
+ former largely stemming from the latter\, HIP can offer insight into many o
+ f the issues and questions which face composition in historical styles.</p>
+ \n<p dir="ltr">2. Composition in historical styles can provide the foundati
+ on for artistic research\, which I will demonstrate using examples from my 
+ opera. As such\, I will examine and discuss some of the unique insights tha
+ t this kind of composition can offer with respect to the music of the past\
+ , in particular its potential for elucidating the process of creation\, art
+ istic thought\, and other issues of an inherently abstract nature which are
+  otherwise difficult to pinpoint through the conventional scientific method
+ s of music analysis and musicology.</p>\n
+DTSTART:20230923T100000Z
+LOCATION:Raum 117\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Erik Aren Schroeder: A Contemporary Opera in Eighteenth-Century Sty
+ le
+DTEND:20230923T103000Z
+END:VEVENT
+END:VCALENDAR

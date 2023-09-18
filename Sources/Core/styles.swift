@@ -8,6 +8,7 @@ public func styles() -> String {
 		<> bodyStyle
 		<> fixLineHeightSuperSubscript
 		<> pStyle
+		<> aStyle
 		<> buttonStyle
 		<> highlightColorStyle
 		<> hightlightUnderlineStyle
@@ -19,6 +20,8 @@ public func styles() -> String {
 		<> headerItemStyle
 		<> hrStyle
 		<> entryStyle
+		<> calloutAddToCalendarBoxStyle
+		<> addToCalendarStyle
 		<> calloutStyle
 		<> headingStyle
 		<> abstractStyle
@@ -47,6 +50,8 @@ let dialogBackdrop = CssSelector("dialog::backdrop")
 let header = CssSelector(stringLiteral: ".header")
 let headerItem = CssSelector(stringLiteral: ".headerItem")
 let entry = CssSelector(".entry")
+let calloutAddToCalendarBox = CssSelector(".calloutAddToCalendarBox")
+let addToCalendar = CssSelector(".addToCalendar")
 let callout = CssSelector(".callout")
 let heading = CssSelector(".heading")
 let abstract = CssSelector(".abstract")
@@ -85,6 +90,11 @@ let fixLineHeightSuperSubscript = (sup | sub) % (
 let pStyle = p % (
 //	margin(topBottom: .rem(0.5))
 	margin(all: 0)
+)
+
+let aStyle = a % (
+	color(.gray)
+	<> key("text-decoration", "none")
 )
 
 // MARK: Blocks
@@ -144,6 +154,18 @@ let hrStyle = hr % (
 let entryStyle = entry % (
 	key("scroll-margin", "5rem")
 //	.empty
+)
+
+let calloutAddToCalendarBoxStyle = calloutAddToCalendarBox % (
+	display(.flex)
+	<> flex(wrap: .wrap)
+	<> justify(content: .spaceBetween)
+)
+
+let addToCalendarStyle = addToCalendar % (
+	color(.gray)
+	<> fontSize(.rem(0.85))
+//	<> margin(left: .auto)
 )
 
 let calloutStyle = callout % (

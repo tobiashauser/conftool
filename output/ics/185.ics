@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:185
+DESCRIPTION:<p>Die künstlerisch-wissenschaftliche Forschung ermöglicht es\,
+  Einblick in kreative Prozesse zu gewinnen sowie Kunstschaffenden einen Uni
+ versitätsabschluss\, unter Einbeziehung ihres künstlerischen Schaffens\, zu
+  erwerben. In Großbritannien\, wo künstlerisch-wissenschaftliche Forschung 
+ schon seit längerem etabliert ist\, kam der Musik eine Sonderstellung zu\, 
+ eine Komposition zusammen mit einem kurzen Kommentar\, oft nur 10.000 Wörte
+ r\, war ausreichend für den Doktortitel. Im Gegensatz dazu musste in andere
+ n Disziplinen eine künstlerische Arbeit und ein aus 40.000 Wörter bestehend
+ er geschriebener Anteil eingereicht werden. Dies zeigt zum einen\, wie domi
+ nant der schriftliche Diskurs\, auch wenn es um eine symbolische Notation w
+ ie Notenschrift handelt\, für wissenschaftliches Arbeiten ist. Zum anderen\
+ , inwieweit Musik als eine Kunstform betrachtet wird\, die sich durch sich 
+ selbst ausdrücken kann. Es gilt zu überlegen\, was dies für die künstlerisc
+ h-wissenschaftliche Forschung im Bereich Musiktheorie bedeutet in Bezug auf
+  die spezifischen Erkenntnisse\, die hier gewonnen werden. Wie ist Theorieb
+ ildung hier schon in der Praxis verankert bzw. meint Theorie in diesem spez
+ iellen Kontext nicht schon eine Auseinandersetzung mit der Praxis? Wenn ja\
+ , wie kann dies artikuliert werden?</p>\n<p>In diesem Vortrag möchte ich ze
+ ntrale Fragen und Problemstellungen erörtern\, mit denen ich mich in meiner
+  langjährigen Tätigkeit in Großbritannien als Dozentin bei der Betreuung kü
+ nstlerisch-wissenschaftlicher Forschungsarbeiten in inter- und transdiszipl
+ inären Kontexten auseinandergesetzt habe und Lösungsvorschläge für die Musi
+ ktheorie erörtern. Zentrale Punkte sollen hierbei sein: wie ist das Spezifi
+ sche bei der Betrachtung eines künstlerischen Artefakts\, in Bezug auf mein
+ e eigene Praxis oder die eines anderen herauszuarbeiten? Wie verändern sich
+  hier Subjekt/Objektbeziehungen\, wenn ich mich mit der Praxis als solcher 
+ auseinandersetze? Welche Formen der Darstellung und Dokumentation von Erken
+ ntnissen bieten sich\, zusammen mit und jenseits von Schrift oder Notenschr
+ ift\, an? Braucht es andere diskursive Strategien? Wie sehr benötigt Musikt
+ heorie ebenfalls die Theoriebildung in anderen Disziplinen\, wie zum Beispi
+ el\, Philosophie\, Soziologie und kognitive Forschung\, die zur theoretisch
+ en Untermauerung in der künstlerisch-wissenschaftlichen Forschung häufig he
+ rangezogen werden? Für wen ist die Möglichkeit einer Qualifikation in künst
+ lerisch-wissenschaftlicher Forschung eine Erleichterung?</p>\n
+DTSTART:20230923T093000Z
+LOCATION:Raum 117\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Renate Bräuninger: Wie Praxis reflektieren: zwischen handwerkwerkli
+ chem Können\, theoretischem Rahmen\, den relevanten diskursiven Strategien 
+ sowie Dokumentation und Notation
+DTEND:20230923T100000Z
+END:VEVENT
+END:VCALENDAR

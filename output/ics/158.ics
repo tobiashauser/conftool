@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:158
+DESCRIPTION:<p><strong>Abstract</strong></p>\n<p>‘Artistic jazz research’\,
+  the currently leading type of jazz research\, is largely modelled after ar
+ tistic research in classical music\, which itself is modelled after researc
+ h methods in the sciences and in philosophy. Where music theory once reigne
+ d supreme\, now ‘artistic jazz research’ has taken its place.</p>\n<p>Is ‘a
+ rtistic jazz research’ the right format for jazz in the 21st Century? The p
+ rice paid for fitting into academia is adapting to traditional musicologica
+ l approaches\, to dutifully follow scientific research methods\, and to sub
+ ordinate to an outdated peer-review system.</p>\n<p>For many in the jazz wo
+ rld\, it is not offering the needed framework for jazz research. The direct
+  link is missing to the practice of jazz\, to the applicability of the outc
+ ome of the research in jazz performance and education. Jazz performance is 
+ real time\, applied jazz theory. In ‘artistic research’ the link to music t
+ heory is seldom made.[1]</p>\n<p>‘Applied jazz research’ offers an alternat
+ ive to ‘artistic jazz research’:</p>\n<p><em>Research that is fed by\, and 
+ that is feeding jazz performance and jazz education.</em></p>\n<p> Applied 
+ jazz research links to:</p>\n<ul>\n<li>Jazz performance\;</li>\n<li>The dir
+ ection of jazz as artform\;</li>\n<li>New applicable insights in music educ
+ ation\, including music theory\;</li>\n<li>The use of modern technology in 
+ the teaching of music theory.</li>\n</ul>\n<p>Instead of the outdated ‘blin
+ d peer review’ system\, the ‘dynamic review system\,’ is chosen. The world-
+ wide jazz community is the forum to respond to\, elaborate on\, and evaluat
+ e the outcomes of applied jazz research.</p>\n<p>The platform for ‘applied 
+ jazz research’ is the online ‘IASJ Journal’[2]\, published by Grand Valley 
+ State University Libraries.</p>\n<p align="center"> </p>\n<p><strong>Panel 
+ topics: </strong></p>\n<p>- Clarifying the terminology: artistic jazz resea
+ rch\, applied jazz research\, practice-based research\, (ethno)musicology\,
+  popular music studies\, etc.\;</p>\n<p>- The old review policy versus ‘dyn
+ amic peer review\;</p>\n<p>- Grand Valley State University Library and the 
+ IASJ\, the Research Catalogue\, music theory publishers\, online/new media 
+ courses and applied jazz research\;</p>\n<p>- The differences between vario
+ us types of jazz research in academies\, conservatories\, and universities\
+ ;</p>\n<p>- How to connect the current jazz research and jazz theory initia
+ tives.</p>\n\n<p>./.</p>\n<br clear="all" />\n<p>[1] See ‘Journal for artis
+ tic jazz research’ published by Routledge\; see the Research Catalogue</p>\
+ n\n<p>[2] See: https://scholarworks.gvsu.edu/iasj_journal/</p>\n\n
+DTSTART:20230923T153000Z
+LOCATION:Raum 117\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Kurt Ellenberger/Wouter Turkenburg: Applied Jazz Research as an alt
+ ernative to Artistic Jazz Research
+DTEND:20230923T163000Z
+END:VEVENT
+END:VCALENDAR

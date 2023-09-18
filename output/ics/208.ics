@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:208
+DESCRIPTION:<p>Lernen Sie die neuen Möglichkeiten der Notationssoftware Dor
+ ico kennen. Neueinsteiger und Umsteiger von anderen Musikprogrammen sind he
+ rzlich willkommen. In diesem Vortrag werden die neuen Konzepte\, sowie die 
+ grundlegenden Funktionen und Bedienung von Dorico vorgestellt.</p>\n\n<ul>\
+ n<li>Ein-Fenster-Bedienung</li>\n<li>was ist der Unterschied zwischen Einze
+ l- und Satzspielern?</li>\n<li>automatisches Layout ohne Kollisionen</li>\n
+ <li>was sind Partien? (mehrsätzige Werke in einem Projekt)</li>\n<li>welche
+  Möglichkeiten der Noteneingabe gibt es?</li>\n<li>automatisches Zusammenfü
+ hren zu einer Dirigierpartitur</li>\n<li>automatische Stichnoten</li>\n<li>
+ automatisch positionierte Fingersätze</li>\n<li>automatische Tabulaturen fü
+ r Instrumente mit Bünden</li>\n<li>semantisch funktionaler Generalbass</li>
+ \n<li>Mikrotonalität</li>\n<li>Open Meter\, Polymetrik</li>\n<li>VST-Instru
+ mente\, Erstellen von MP3s Gratis Version Dorico SE/iPad | Möglichkeiten de
+ r kostenfreien Versionen</li>\n</ul>\n
+DTSTART:20230922T143000Z
+LOCATION:Raum 116 (Medienraum)\nMendelssohn-Bartholdy-Platz 1\n79102 Freibu
+ rg im Breisgau\nGermany
+SUMMARY:Markus Hartmann: DORICO – Musiknotation der nächsten Generation
+DTEND:20230922T160000Z
+END:VEVENT
+END:VCALENDAR

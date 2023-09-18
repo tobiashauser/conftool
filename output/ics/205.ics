@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:205
+DESCRIPTION:<p>In der 2020 von Veronika Darian und Peer de Smit herausgegeb
+ enen Publikation <em>Gestische Forschung – Praktiken und Perspektiven</em> 
+ betonen die Herausgebenden im Vorwort\, dass es sich bei dem neuen Ansatz d
+ er im Sammelband enthaltenen Beiträge weniger um eine Auffrischung zwischen
+  1940 und 2010 intensiv erfolgter Forschungen zu Leiblichkeit\, Semantik\, 
+ Sozialität\, Phänomenologie und Ästhetik von Gesten handelt als vielmehr um
+  eine Auseinandersetzung mit den eigenen Forschungsmethoden und -praktiken\
+ , die epistemologische Konsequenzen hat: Bringt doch das im Wortsinn übergr
+ eifende und hybride Potential des Gestischen Erweiterungen und Verschiebung
+ en von Forschungsstandards mit sich. Im Zuge dieser Verschiebung wird gerad
+ e den Künsten ein maßgeblicher Anteil an der Wissensproduktion und -speiche
+ rung zugeschrieben und das nicht nur aus den Künsten selbst. Auch ist ein s
+ olches „Wissen der Künste“ nicht zwangsläufig ein kunstbezogenes Wissen\, s
+ ondern schließt naturwissenschaftliche\, anthropologische und ontologische 
+ Perspektiven mit ein. Waren es in der Dekonstruktion entwickelte Gedanken\,
+  die ‒ in Texten von Derrida\, Cixous\, Barthes\, Nancy und anderen ‒ das s
+ prachliche Paradigma aus seiner Statik und diskursiven Gebundenheit befreit
+ en\, so sind es in künstlerischer Forschung gerade nicht sprachlich vermitt
+ elte\, nicht übersetzbare Wissensformen\, die an die Stelle von sprachlich 
+ oder durch andere Formen der Datenerhebung fasslicher Forschungsergebnisse 
+ treten. Wie Derrida die Alltagsprache dahingehend korrigiert\, dass „Überse
+ tzungen“ tatsächlich „Transformationen“ sind\, so artikuliert sich auch kün
+ stlerische Forschung oft gestisch-transformierend. Ein adäquates „Lesen“ di
+ eser Forschungsgesten ist weder aus den Wissenschaften übertragbar noch sel
+ bstverständlich.</p>\n<p>Musiktheorie als von jeher hybride Disziplin biete
+ t die Chance zur Sensibilisierung\, zur Schärfung und zum Nachvollzug solch
+ er Transformationen. Wenn Roland Barthes in seinem Kommentar zu Robert Schu
+ manns <em>Kreisleriana</em> anscheinend ebenso banale wie abwegige Gestik i
+ n eine virtuelle Körperlichkeit der Musik hineininterpretiert und dabei die
+  Unabhängigkeit dieses „corps“ von regelhafter und diskursiv stimmiger Anal
+ yse betont\, dann bieten musiktheoretische Differenzierungen die Chance\, a
+ us der Hermetik beider Texte\, Schumann wie Barthes\, eine verstehende Bewe
+ gung\, ein gestisches Denken abzuleiten.</p>\n<p>Der Vortrag versucht an we
+ iteren Beispielen künstlerisch forschender Gestik wie an Arbeiten aus der z
+ eitgenössischen Choreographie und dem zeitgenössischen Musiktheater exempla
+ rische Forschungssituationen zu präsentieren\, in denen musiktheoretische S
+ ensibilisierung ein Wissen der Künste erschließt\, welches transdisziplinär
+  als forschende künstlerische Praxis über die traditionellen Grenzen des Fa
+ chs hinausgreift.</p>\n
+DTSTART:20230923T070000Z
+LOCATION:Wolfgang-Hoffmann-Saal\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Ariane Jeßulat: Forschungsgesten - Potentiale und Grenzen künstleri
+ scher Forschung (Keynote)
+DTEND:20230923T080000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:195
+DESCRIPTION:<p>Mikrotonalität ist bekanntermaßen ein spannendes und reichha
+ ltiges Feld für kompositorische Erkundungsarbeit und bietet für die Musikth
+ eorie vielfältige Anknüpfungspunkte – sei es im Rahmen der Analyse mikroton
+ aler Kompositionen oder in Bezug auf allgemeine Grundlagen wie z.B. Stimmun
+ gssysteme. Im Bereich des satztechnischen Unterrichts spielt Mikrotonalität
+  bislang allerdings kaum eine Rolle. Der Workshop will hier zur Erschließun
+ g entsprechender Möglichkeiten beitragen. Verbunden mit einer Einführung in
+  ausgewählte mikrotonale Kompositionstechniken sollen Ideen und Möglichkeit
+ en für die praktische Arbeit mit mikrotonalen Klängen im Unterricht vorgest
+ ellt werden. Der Einsatz digitaler Hilfsmittel wird dabei eine wichtige Rol
+ le spielen und es soll Raum geben für gemeinsames Experimentieren.</p>\n
+DTSTART:20230922T123000Z
+LOCATION:Raum 116 (Medienraum)\nMendelssohn-Bartholdy-Platz 1\n79102 Freibu
+ rg im Breisgau\nGermany
+SUMMARY:Jan Esra Kuhl: Mikrotonales Komponieren im satztechnischen Unterric
+ ht
+DTEND:20230922T140000Z
+END:VEVENT
+END:VCALENDAR

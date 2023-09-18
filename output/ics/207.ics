@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:207
+DTSTART:20230922T094000Z
+LOCATION:Wolfgang-Hoffmann-Saal\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Ludwig Holtmeier: Forschung oder Graduierung? Warum die Musiktheori
+ e die Künstlerische Forschung braucht
+DTEND:20230922T100500Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:176
+DESCRIPTION:<p>Unter den zahlreichen Ton- und Videodokumenten des legendäre
+ n Pianisten Vladimir Horowitz gibt es einige\, in denen er frei improvisier
+ t. Die Aufnahmen\, die beispielsweise während seiner Proben in der New York
+ er Carnegie Hall vor dem angekündigten Konzertprogramm entstanden sind\, ge
+ ben einen aufschlussreichen Einblick in die musikalische Gedankenwelt des K
+ ünstlers. Es sind gleichzeitig seltene Beispiele für ein vom Notentext gelö
+ stes Spiel\, denn von zahlreichen anderen Pianist*innen des 20. Jahrhundert
+ s sind nur wenige Improvisationen von Glenn Gould und György Cziffra überli
+ efert\, obwohl diese Kunst noch im 19. Jahrhundert ein wesentlicher Teil de
+ r Konzertpraxis war. Doch wie verhält es sich mit der Improvisation von Kon
+ zertpianist*innen im 20. Jahrhundert?</p>\n<p>Im Rahmen der Studie wird fol
+ genden Fragen nachgegangen: Welche stilistischen bzw. kompositorischen Einf
+ lüsse sind in den Improvisationen Horowitz‘ erkennbar? Inwiefern beziehen s
+ ie sich auf bestimmte Werke – erfüllen die Improvisationen hierfür den Zwec
+ k einer virtuosen Einspielübung? Welche Klanglichkeit\, welche Harmonik und
+  welche Satzstrukturen bevorzugt Horowitz?</p>\n<p>Für eine detaillierte An
+ alyse werden aus den Tondokumenten erstellte Transkriptionen genutzt. Ansch
+ ließend wird praktisch am Klavier demonstriert\, inwiefern Horowitz‘ Ideen 
+ als Muster für eigene Improvisationen dienen können.</p>\n<p>Literatur:</p>
+ \n<p>Schonberg\, Harold C.\, Horowitz Ein Leben für die Musik\, München 199
+ 2</p>\n<p>Feldhordt\, Philipp\, Czerny und das Fantasieren: eine Untersuchu
+ ng zum schrittweisen Verschwinden der Klavierimprovisation im 19. Jahrhunde
+ rt\, Folkwang Universität der Künste 2018</p>\n<p>Gooley\, Dana\, Fantasies
+  of Improvisation: Free Playing in Nineteenth-Century Music\, Oxford Univer
+ sity Press 2018</p>\n
+DTSTART:20230922T130000Z
+LOCATION:Kammermusiksaal\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im 
+ Breisgau\nGermany
+SUMMARY:Diana Lizura: Wie improvisiert Horowitz?
+DTEND:20230922T133000Z
+END:VEVENT
+END:VCALENDAR

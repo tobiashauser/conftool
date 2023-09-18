@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:209
+DESCRIPTION:<p>In diesem Vortrag wird anhand praktischer Beispiele der Musi
+ knotation und musiktheoretischen Analyse das Konzept und die Funktionalität
+  von Dorico beschrieben. Es wird gezeigt und erklärt\, wie schnell und unko
+ mpliziert ein kollisionsfreies Layout eines Orchesterarrangements mit zusam
+ mengeführter Dirigierpartitur\, Einzelstimmen und Wiedergabe erstellt werde
+ n kann. Des Weiteren werden die Möglichkeiten vorgestellt\, die das aus Ado
+ be Indesign bekannte Desktop-Publishing-Konzept mit Seitenvorlagen und Rahm
+ enstruktur bietet. Ebenso werden die Vorteile der semantisch-funktionalen W
+ erkzeuge\, wie z.B. des Akkordsymbol-\, Fingersatz- oder Generalbass-Werkze
+ ugs\, gegenüber rein grafischen Werkzeugen anderer Programme\, für die musi
+ ktheoretische Analyse aufgezeigt. Ebenfalls verfügt Dorico über Werkzeuge z
+ ur Akkordanalyse\, wie auch zur automatischen Harmonisation und Erstellung 
+ von Sätzen nach einstellbaren Regeln der Musiktheorie. Nicht zuletzt stehen
+  in Dorico noch weitere Kompositionswerkzeuge zur rhythmischen und tonalen 
+ Manipulation von Musik zur Verfügung.</p>\n<p>Dorico stellt also vielfältig
+ e Möglichkeiten der Notation bereit\, die sich vom einfachen Leadsheet über
+  Arbeitsblätter\, mehrsätzige Kompositionen mit unterschiedlichen Besetzung
+ en\, bis hin zu musiktheoretischen Betrachtungen hin erstrecken.<br /> Am E
+ nde dieses Vortrags werden Sie einen Überblick über die neuen – und zukünft
+ igen – Möglichkeiten von Dorico haben.</p>\n
+DTSTART:20230923T093000Z
+LOCATION:Raum 116 (Medienraum)\nMendelssohn-Bartholdy-Platz 1\n79102 Freibu
+ rg im Breisgau\nGermany
+SUMMARY:Markus Hartmann: DORICO – Praxis der Musiknotation und musiktheoret
+ ischen Analyse
+DTEND:20230923T110000Z
+END:VEVENT
+END:VCALENDAR

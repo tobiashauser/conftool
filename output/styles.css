@@ -35,6 +35,11 @@ p {
   margin-left   : 0;
 }
 
+a {
+  color           : #808080;
+  text-decoration : none;
+}
+
 .button:hover {
   cursor : pointer;
 }
@@ -90,6 +95,17 @@ hr {
 
 .entry {
   scroll-margin : 5rem;
+}
+
+.calloutAddToCalendarBox {
+  display         : flex;
+  flex-wrap       : wrap;
+  justify-content : space-between;
+}
+
+.addToCalendar {
+  color     : #808080;
+  font-size : 0.85rem;
 }
 
 .callout {

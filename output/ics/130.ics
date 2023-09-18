@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:130
+DESCRIPTION:<p>Anton Reichas (1770-1836) 36 Fugen können sowohl strukturell
+  analysiert werden\, als auch ausgehend von den Kompositions- und Musiktheo
+ rien des Autors selber\, welche er in seinen Lehrwerken beschreibt. Dies is
+ t insbesondere in der Entstehungszeit zu dem Jahrhundertwechsel zum 19. Jah
+ rhundert unüblich\, da die Zeit der Fugenkompositionen als vergangen angese
+ hen wurden. Reicha versuchte hierbei die Kunst der Fugenkomposition in die 
+ neue Zeit zu retten und konnte dies in den letzten Jahren seines Lebens als
+  Professor für Kontrapunkt und Fuge am Conservatoire in Paris an Schüler wi
+ e Belioz\, Liszt\, Franck und Gounod weitergeben.</p>\n<p>Die einzelnen Fug
+ en stellen jeweils ein kompositorisches Problem in den Mittelpunkt und dies
+ e werden durchgeführt. Die Fugen können hierbei eingeteilt werden in solche
+ \, welche die Harmonik und Verwandschaften ins Zentrum stellen\, solche wel
+ che nicht-fugentypische Themen beleuchten und solche welche formale Aspekte
+  thematisieren. Auffallend sind des weiteren Reichas Experimente mit ungera
+ den Taktarten\, welche in der polymetrischen Fuge 20 gipfeln\, oder auch da
+ s Thema der Fuge 18\, welche aus einer 34-mal wiederholten Note besteht\, o
+ der eine Fuge mit 6 Subjekten im mehrfachen Kontrapunkt. Er zitiert in sein
+ en Fugen Themen von Mozart\, Haydn\, Scarlatti\, Frescobaldi bis hin zu Bac
+ h.</p>\n<p>Die Rezeption seiner Fugen war zur Reichas Zeit vernichtend\, je
+ doch können sie heute als Anschauungsmaterial dienen\, für musikalische Mit
+ tel\, welche erst viel später Eingang in die allgemeinen benutzen Kompositi
+ onsmittel gefunden haben.</p>\n<p>Insbesondere auch die Gedanken zur Fuge\,
+  welche vom Komponisten selbst stammen\, bringen hierbei Licht ins Dunkel.<
+ /p>\n
+DTSTART:20230922T123000Z
+LOCATION:Raum 117\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Aron Salzmann: Anton Reicha - 36 Fugen als Problemlösungen
+DTEND:20230922T130000Z
+END:VEVENT
+END:VCALENDAR

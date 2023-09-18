@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:198
+DESCRIPTION:<p>Seit dem Entwurf von Bernhard Haas ist die Tonfeldtheorie im
+  Verlauf der letzten knapp 20 Jahre zu einem der wichtigsten Ansätze zur An
+ alyse erweiterter Tonalität im 19. Jahrhundert und darüber hinaus avanciert
+ . Während der Ansatz von zahlreichen Analytikern aufgegriffen und an vielen
+  Einzelwerken demonstriert wurde\, fehlen nach wie vor zwei wichtige Entwic
+ klungsschritte für die Fortentwicklung der Theorie: (a) eine übergreifende 
+ und über Einzelanalysen hinausgehende Validierung mit modernen Korpusmethod
+ en\, sowie (b) eine präzise Formalisierung der Konzepte\, Relationen und Vo
+ rhersagen der Theorie mit aktuellen (mathematischen) Werkzeugen der Theorie
+ bildung – insbesondere auch im Vergleich zu anderen\, formaleren Ansätzen w
+ ie z.B. der Neo-Riemannian Theory oder der Set Theory\, die sich denselben 
+ Gegenstandsbereich beschreiben.</p>\n<p>Dieser Beitrag schlägt eine Formali
+ sierung der Tonfeldtheorie als musikalische Grammatik mit Methoden der Theo
+ rie formaler Sprachen und Grammatiken vor.  Formale\, generative Grammatike
+ n ermöglichen es\, die Bildung von (musikalischen) Sequenzen mit wenigen re
+ kursiven zugrunde liegenden Regeln zu beschreiben. In einer ersten Fassung 
+ konzentriert sich der Formalismus auf die formale Charakterisierung von Har
+ moniesequenzen. Die formale Grammatik nimmt (1) eine Menge von abstrakten K
+ ategorien und (2) eine Menge von abstrakten Regeln an\, mit deren Hilfe Har
+ moniefolgen schrittweise abgeleitet (=erklärt) werden. Als abstrakte Katego
+ rien werden transpositionsinvariante Akkordrepräsentationen\, Akkordtransfo
+ rmationen\, sowie Tonarten und drei Tonfelder (Oktatonik/Funktion\, Hexaton
+ ik/Konstrukt\, Quintenreihe) angenommen – letztere abgeleitet aus den Basis
+ dimensionen des Eulerschen Tonnetzes. Die Interpretation des Regelsatzes ve
+ rmittelt auf allgemeiner Ebene zwischen Interpretation und Struktur\, hier 
+ im Konkreten zwischen musikalischen Effekten und Relationen zwischen Objekt
+ en (Akkorden\, Tonarten\, Tonfeldern\, Tönen). Die Regeln charakterisieren 
+ elementare Relationen zwischen Kategorien\, die Relationen diatonischer Ton
+ alität erweitern\, insbesondere: generalisierte Prolongation\, Modulation u
+ nd erweiterte Tonfeldmodulation\, Vorbereitungsbildung\, plagale Fortschrei
+ tung\, Substitution\, Kontrastbildung\, sowie Tonfeldteilung\, -expansion\,
+  -kontraktion\, und Quintenverschiebung. Aufgrund der rekursiven Anwendung 
+ der formalen Regeln auf beliebiger Abstraktionsebene entsteht die in der Li
+ teratur angenommene Hierarchie bzw. Schichtenreduktion von Tonfeldanalysen 
+ bereits aus der mathematischen Rekursion des Formalismus selbst.</p>\n<p>Di
+ e vorgestellte Formalisierung wird an diversen Beispielen erläutert und in 
+ ihrer musikhistorischen Reichweite diskutiert\, sowie der Zusammenhang zwis
+ chen individueller\, hermeneutischer Expertenanalyse und dem Formalismus al
+ s Notationsgrammatik reflektiert. Abschließend werden notwendige Erweiterun
+ gen zur Analyse auf Tonebene problematisiert und die Möglichkeiten zur Vali
+ dierung qua Korpusanalyse diskutiert.</p>\n
+DTSTART:20230922T150000Z
+LOCATION:Raum 137 (Rhythmiksaal)\nMendelssohn-Bartholdy-Platz 1\n79102 Frei
+ burg im Breisgau\nGermany
+SUMMARY:Martin Rohrmeier: Grundlagen einer formalen Tonfeldtheorie
+DTEND:20230922T153000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:154
+DESCRIPTION:<p>Wie vermittle ich mitunter komplexe musiktheoretische Zusamm
+ enhänge im Musikunterricht? Vor der Beantwortung dieser Frage stehen Musikl
+ ehrer*innen in Laufe ihres Berufes immer wieder. Mit einem Blick auf den St
+ ellenwert von Musiktheorie im Musikunterricht und die Zielsetzung des Unter
+ richts an Gymnasien in Thüringen lässt sich feststellen\, dass hier eine Di
+ sparität besteht: Die fachspezifischen Kompetenzen (nach dem Konzept des au
+ fbauenden Musikunterrichts)\, die im schulischen Kontext erlernt werden sol
+ len\, sind zwar bereits an einer musikalischen Praxis ausgerichtet\, die da
+ mit im Zusammenhang stehenden musiktheoretischen Inhalte jedoch werden im L
+ ehrplan lediglich genannt\, aber nicht die fächerübergreifende Verknüpfung 
+ erläutert\, welche dem Kompetenzerwerb innewohnt.</p>\n<p>Dieser Vortrag be
+ fasst sich anhand eines Fallbeispiels mit der Frage nach einer interdiszipl
+ inären Verknüpfung von Bereichen der Musik und Bewegung\, der elementaren M
+ usikpädagogik sowie Musiktheorie und Musikanalyse im Musikunterricht in der
+  gymnasialen Unterstufe. Nach der Erläuterung lerntheoretischer Aspekte und
+  einem kurzen Überblick zu aktuellen Publikationen wird das didaktische Kon
+ zept einer interdisziplinär ausgerichteten Unterrichtssequenz vorgestellt.<
+ /p>\n<p>Anhand von zwei Kompositionen Wolfgang Mozarts und Ludwig van Beeth
+ ovens soll die Rondoform und ihre verschiedenen syntaktischen Spielarten\, 
+ das hörende Erkennen von Ritornell und Couplets\, die hörende Wahrnehmung v
+ on musikalisch Gleichem und musikalisch Unterschiedlichem in den Formabschn
+ itten eines Rondos\, sowie eine kreative Umsetzung der Musik durch Bewegung
+  vermittelt werden. An Methodik und Aktionsformen werden zur Vermittlung be
+ wegungsbezogenes Erleben von Musik\, schöpferisch-kreative Arbeit im Umgang
+  mit Bewegung zur Musik in der Gruppe und die kreative grafische Darstellun
+ g der musikalischen Form des Rondos beim Hören verwendet. Ausgehend von den
+  Aktionsformen sollen dann die von den Schülern durch die Praxis erworbenen
+  Fähigkeiten sowie Kompetenzen verbalisiert\, reflektiert und auf einer the
+ oretischen Wissensebene abstrahiert werden. Die dokumentierten Resultate au
+ s der Schulpraxis werden vorgestellt und anschließend reflektiert.</p>\n\n<
+ p><strong>Literatur:</strong></p>\n<ul>\n<li>Schlothfeldt\, Matthias\, <em>
+ Komponieren im Unterricht\,</em> Hildesheim 2009<strong></strong></li>\n</u
+ l>\n<ul>\n<li>Jank\, Werner\, Schmidt-Oberländer\, Gero\, <em>Aufbauender M
+ usikunterricht. Grundlagen – Konzeption – Praxis.</em> In: Bäßler\, Hans / 
+ Nimczik\, Ortwin (Hrsg.): <em>Stimme(n). Kongressbericht 26. Bundesschulmus
+ ikwoche Würzburg 2006</em>. Mainz 2008\, S. 335–338</li>\n</ul>\n<ul>\n<li>
+ Brandes\, Juliane\; Theisohn\, Elisabeth: <em>Musik\, Bewegung und .... For
+ menlehre? Werkstattbericht über ein interdisziplinäres Seminar</em>\, In: A
+ rnecke\, Jörn (Hrsg.)\, <em>Praktische Musiktheorie</em>\, Hildesheim 2017<
+ /li>\n</ul>
+DTSTART:20230923T153000Z
+LOCATION:Raum 129 (Opernschule)\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Roman Engelhardt: Die Rondoform durch Musik und Bewegung erfahren –
+  die (Un-)Mittelbarkeit von musiktheoretischen Inhalten
+DTEND:20230923T160000Z
+END:VEVENT
+END:VCALENDAR

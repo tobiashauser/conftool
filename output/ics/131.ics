@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:131
+DESCRIPTION:<p><strong>Flexibility versus Diversity in Interval-Sizes</stro
+ ng>:</p>\n<p>The unanswered question of <em>Mojannab</em> Intervals in <em>
+ Persian Dastgah Music</em></p>\n<p>Modal music and microtones\, going toget
+ her in most cases\, put the subject of interval-sizes in spotlight.</p>\n<p
+ >Despite efforts\, we still face a rather chaotic amount of information on 
+ interval-sizes in many of modal music cultures\; including <em>Persian Dast
+ gah</em> music. Such information is not only diffused and disparate\, but a
+ lso inefficient in explaining the basic questions of perception of modal ch
+ aracteristics. Some musicians and musicologists have interpreted diffusion 
+ as flexibility (e.g. Farhat 1990)\; a statement with noticeable consequence
+ s and questions\; such as: Is such flexibility accepted and practiced when 
+ professionals produce their music? Is such flexibility a result of imprecis
+ ion in pitch-perception or tolerance caused by diversity?</p>\n<p>In contra
+ st to manuscripts on music\, from Iran and its neighbouring cultures betwee
+ n 9th and 16th Centuries\, that go into extensive details of interval-sizes
+  and sets (<em>Ajnas</em>)\, <em>Persian Dastgah</em> system in the last tw
+ o centuries is relying mostly on musicians’ ears\, in intonation and precis
+ ion of intervals\; especially with key intervals in every Dastgah. The most
+  characteristic of such intervals is <em>Mojannab: </em>the so-called neutr
+ al interval\, loosely described as a three-quarter-tone\, bigger than a sem
+ i-tone\, smaller than a whole-tone.</p>\n<p>There have been studies of Pers
+ ian <em>Dastgah</em> intervals: a handful of them physically measured fret-
+ distances on instruments belonging to masters (Osqueezadeh&Maulana 1995\; F
+ arhat 1990)\, a couple of studies measured frequencies of tones in recorded
+  performances\, hence the ratios for intervals (Barkeshli 1995\; During 200
+ 6\; Jeyranzadeh 2013)\, some have been using software analyses on recorded 
+ performances to obtain pitch-classes and then intervals in between (Sanati 
+ 2020\; Shafiei 2021)\, and a few tried to relate the current intonation to 
+ either old manuscripts (Kiani 1989) or a systematic tuning concept to prese
+ nt the underlying structure in Dastgah tuning (Maulana 1999).</p>\n<p>In th
+ is lecture\, I will be looking at the possible hypotheses based on which we
+  could re-orchestrate the study of such intervals. Such hypotheses should b
+ e formed around perception of each <em>Dastgah</em>\, to see that we might 
+ be observing diversity and not flexibility\; diversity that creates differe
+ nt modal entities.</p>\n
+DTSTART:20230923T103000Z
+LOCATION:Raum 129 (Opernschule)\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Negar Booban: Flexibility versus Diversity in Interval-Sizes: The u
+ nanswered question of Mojannab Intervals in Persian Dastgah Music
+DTEND:20230923T110000Z
+END:VEVENT
+END:VCALENDAR

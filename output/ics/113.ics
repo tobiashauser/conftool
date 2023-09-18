@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:113
+DESCRIPTION:<p>Die Zuschreibung von Affekten zu bestimmten Tonarten wird im
+  18. Jahrhundert\, wie auch schon im vorhergehenden überlieferten musikgesc
+ hichtlichen Diskurs\, kontroversiell diskutiert – man bedenke etwa die wide
+ rsprüchliche Behandlung des Themas in Traktaten Matthesons und Heinichens. 
+ Die Einnahme einer künstlerisch-praktischen Perspektive auf das Konzept der
+  Tonartenaffekte bietet die Möglichkeit\, unabhängig von einer qualitativen
+  Wertung des Konzeptes die Frage zu stellen\, inwiefern sich verschiedene T
+ onarten akustisch voneinander unterscheiden. Im Bereich des historisch info
+ rmierten praktischen Musizierens finden sich Aspekte\, die einen Einfluss a
+ uf das klangliche Erscheinungsbild einer Tonart ausüben. Offene Saiten von 
+ Streichinstrumenten\, die Temperatur von Tasteninstrumenten sowie instrumen
+ tenspezifische Zuordnungen zu Tonarten\, wie im Fall der Pauken und Trompet
+ en\, tragen zu einer differenzierten Klanglichkeit von Tonarten bei. Das kl
+ angliche Erscheinungsbild einer Tonart bietet häufig die Grundlage für die 
+ Entwicklung einer assoziativen Tonartensymbolik\, die auch unabhängig von d
+ er konkreten Besetzung eines Musikstücks ihre Gültigkeit behält. In meinem 
+ Vortrag möchte ich die genannten musikalisch-praktischen Aspekte vorstellen
+  und ihren Einfluss anhand von Kompositionen des frühen 18. Jahrhunderts be
+ ispielhaft untersuchen. </p>\n
+DTSTART:20230922T123000Z
+LOCATION:Raum 101\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Julia Lorenz: Tonartenaffekte: eine musikalisch-praktische Perspekt
+ ive
+DTEND:20230922T130000Z
+END:VEVENT
+END:VCALENDAR

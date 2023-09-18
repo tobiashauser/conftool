@@ -84,10 +84,22 @@ func entry(_ data: Entry) -> Node {
 			, .data("time", data.starttime.toString(format: .isoDateTimeFull)!)
 			, .id(id(data.id, "entry"))
 		],
-		entryCallout(data)
+		entryCalloutAddToCalendarFlexBox(data)
+//		entryCallout(data)
+//		, entryAddToCalendar(data)
 		, entryHeading(data)
 		, entryBody(data)
 		, entryCaption(data)
+	)
+}
+
+func entryCalloutAddToCalendarFlexBox(_ data: Entry) -> Node {
+	.div(
+		attributes: [
+			.class("calloutAddToCalendarBox")
+		],
+		entryCallout(data)
+		, entryAddToCalendar(data)
 	)
 }
 
@@ -98,6 +110,18 @@ func entryCallout(_ data: Entry) -> Node {
 			, .id(id(data.id, "callout"))
 		],
 		.text(data.callout)
+	)
+}
+
+func entryAddToCalendar(_ data: Entry) -> Node {
+	.div(
+		attributes: [.class("addToCalendar highlightUnderline")],
+		.a(
+			attributes: [
+				.href("ics/\(data.icsName)")
+			],
+			.text("Add to calendar")
+		)
 	)
 }
 

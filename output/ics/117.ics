@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:117
+DESCRIPTION:<p>»Meistens« »oft« »manchmal« »selten« – Solche Häufigkeitsadv
+ erbien sind fester Bestandteil der Satzlehre. Ihre kontextabhängige Bedeutu
+ ng lässt jedoch großen Raum für Missverständnisse zu. Korpusstudien bieten 
+ eine Lösung an\, indem sie einerseits den Kontext von vornherein festlegen\
+ , andererseits statistisch fundierte Aussagen ermöglichen. In der Fugenlehr
+ e können Aussagen wie »Meistens wird das Thema in der Dominante beantwortet
+ « dadurch folgendermassen optimiert werden: »In den 160 Orgelversetten von 
+ F. Murschhauser\, J. Fischer und Gottfried Muffat kommt eine Beantwortung i
+ n der Dominante in 66\,9% der Fälle vor (n=442)«. In diesem Vortrag geht es
+  darum die Ergebnisse genau dieser Korpusstudie von 160 Orgelversetten zu p
+ räsentieren und ihre Bedeutung für die Satzlehre auszuwerten.</p>\n<p>Eine 
+ Vielzahl an Kriterien wurden in dieser Studie systematisch untersucht. Die 
+ 160 Versetten im Korpus wurden zu Beginn nach Taktart\, Gesamtlänge\, Anzah
+ l der Themeneinsätze und Gesamtumfang kategorisiert. Auch die ersten und le
+ tzten Skalentöne von allen Fugenthemen\, ihre Länge und ihr Tonumfang waren
+  Bestandteil der Untersuchung. Die Ergebnisse entsprechen den zeitgenössisc
+ hen Quellen: Alle Themen beginnen und enden mit Skalentönen 1\, 3 oder 5. A
+ ls nächstes wurden sowohl »horizontale« als auch »vertikale« Dispositionen 
+ von <em>dux</em> (D) und <em>comes</em> (C) untersucht. Im gesamten Korpus 
+ gibt es nur fünf horizontale Dispositionen für die ersten vier Themeneinsät
+ ze: D-C-D-C (70\,6%)\, D-C-C-D (20\,6%)\, D-C-D-D (4\,4%)\, D-D-C-C (3\,1%)
+  und D-D-C-D (1\,3%). Die Art der Beantwortung weist ebenfalls eine klare R
+ angordnung auf: Dominante-real (36\,4%)\, Dominante-tonal (30\,5%)\, Subdom
+ inante-real (14\,7%)\, Subdominante-tonal (12\,2%)\, rückmodulierend-real (
+ 2\,9%) und rückmodulierend-tonal (3\,2%).</p>\n<p>Solche Ergebnisse bieten 
+ Studierenden klare Richtlinien für ihre Stilkopien bzw. Analyse an. Die Fes
+ tlegung des Korpus schützt auch gegen die Übergeneralisierung. Ein weiterer
+  Vorteil ist\, dass man beim Erstellen einer Statistik gezwungen wird die K
+ ategorien\, den Maßstab oder die Bedeutung von Begriffen präzise zu definie
+ ren. Dabei kommen Fragen auf\, wie z. B. »Wie viele Töne müssen sich überla
+ ppen\, um als Engführung zu gelten?« oder »Wo genau endet das Thema?« Im En
+ deffekt können die Kategorien bzw. Begriffe wertvoller als ihre Häufigkeits
+ -Statistiken sein. Korpusstudien bergen aber auch Risiken\, wie zu kleine P
+ robengrößen oder den »Sein-Sollen« Fehlschluss.</p>\n
+DTSTART:20230923T143000Z
+LOCATION:Raum 137 (Rhythmiksaal)\nMendelssohn-Bartholdy-Platz 1\n79102 Frei
+ burg im Breisgau\nGermany
+SUMMARY:Derek Remes: Fuge nach Maß? Eine Korpusstudie von 160 süddeutschen 
+ Orgelversetten
+DTEND:20230923T150000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:159
+DESCRIPTION:<p>In a concerto by Vivaldi\, we expect abundant evidence of co
+ mpound meter in the 18<sup>th</sup>-century sense\, including arbitrary met
+ rical shifts and phrases with irregular numbers of half bars (Grave 1985). 
+  Discussions of Bach (e.g.\, Marshall 1972\, Grave 1985) often lead to simi
+ lar expectations\, but such expectations are false.  In the harpsichord con
+ certos\, at least\, a statistical corpus study (previously presented elsewh
+ ere) indicates that metrical shifts are rare and that phrases of four notat
+ ed bars are prevalent.  While the usual markers of compound meter are by no
+  means absent from the harpsichord concertos\, their paucity suggests that 
+ they may in some cases be instances of sophisticated compositional play. </
+ p>\n<p>This paper discusses Bach’s use of 1.5-length bars\, or 1.5LB’s\, he
+ ard measures consisting of three half bars\, in the initial solos of severa
+ l harpsichord concertos.  (The term references Wintersgill’s two-length bar
+ \, 1936.)  Of the set of six concertos BWV 1052-1057\, four the first movem
+ ents are in compound meters\; of those\, three first solos use 1.5LB’s and 
+ the other uses a related technique. </p>\n<ul>\n<li>The first solos of BWV 
+ 1052\, 1053\, and 1055 begin with 1.5 LB’s\, one pair in BWV 1053 and two i
+ n the others.  In each case they stretch but do not disrupt regular four-ba
+ r hypermeter\, as the phrase lengths are five and six notated bars.</li>\n<
+ li>In BWV 1053 and 1055\, the surrounding context is otherwise entirely reg
+ ular in four-bar construction.</li>\n<li>In BWV 1055\, 1.5LB’s are also use
+ d in the ritornello\, in the second four-bar unit\; because of a hypermetri
+ cal reinterpretation (Rothstein 1989) as the second unit overlaps with the 
+ third\, the 1.5LB’s do not interrupt the regular flow of hyperdownbeats eve
+ ry four notated measures.  The first ritornello of BWV 1052 also foreshadow
+ s the solo in using a pair of 1.5LB’s\, albeit without the hypermetrical re
+ gularity of BWV 1055.</li>\n</ul>\n<p>In Vivaldi or Telemann\, similar solo
+ s would simply reflect business as usual in compound meter.  Here\, the sta
+ tistical norms of the works\, the identical formal placement of the 1.5LB’s
+ \, and their participation in regular\, four-(heard)-bar groupings all poin
+ t to deliberate compositional play.</p>\n
+DTSTART:20230922T130000Z
+LOCATION:Raum 156\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:John Paul Ito: “Compound Meter” as Metrical and Hypermetrical Play 
+ in Bach’s Harpsichord Concertos
+DTEND:20230922T133000Z
+END:VEVENT
+END:VCALENDAR

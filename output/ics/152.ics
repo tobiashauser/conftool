@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:152
+DESCRIPTION:<p>Im 20. Jahrhundert ist es ganz und gar nicht ungewöhnlich\, 
+ dass aus der Hand von Komponisten auch umfangreiche theoretische Studien st
+ ammen. Teilweise haben sie einen lehrbuchartigen Charakter\, wollen – so wi
+ e etwa Arnold Schönbergs Harmonielehre – ins kompositorisch-technische Hand
+ werk einführen\, teilweise erheben sie aber auch einen dezidiert wissenscha
+ ftlichen Anspruch. Dieser Anspruch\, der nicht eine ästhetische Verbindlich
+ keit\, sondern eine Einheit von wissenschaftlicher Theorie der Musik und ko
+ mpositorisch-musikalischer Praxis fordert\, findet sich nirgends so stark f
+ ormuliert wie in den Studien der Serialisten – so hat es zumindest Herbert 
+ Eimert immer wieder formuliert.<br />Pierre Boulez beabsichtigt\, mit seine
+ n Darmstädter Vorträgen zum <em>Musikdenken heute</em> eine »allgemeine mus
+ ikalische Morphologie« zu entwickeln und Karlheinz Stockhausen präsentiert 
+ in <em>… wie die Zeit vergeht …</em> eine Theorie der musikalischen Zeit. D
+ iese knüpft unmittelbar an Erfahrungen und Erkenntnisse an\, wie Stockhause
+ n sie aus seinen Arbeiten an den elektronischen Kompositionen gewinnen konn
+ te. Allerdings ist in diesen Schriften auch der enge Bezug zum kompositoris
+ chen Schaffen deutlich erkennbar: <em>… wie die Zeit vergeht …</em> kann et
+ wa als Kompositionsplan oder Werkkommentar zu Stockhausens <em>Gruppen</em>
+  gelesen werden. Können solche Studien wie jene Boulez’ und Stockhausens nu
+ r als ästhetische ›Statements‹ gelesen werden\, die sich auf das Schaffen e
+ ines einzelnen Komponisten beschränken\, oder haben sie einen allgemeineren
+  theoretischen Gehalt\, der darüber hinausweist?<br />Genau dieser Frage wi
+ dmet sich mein Vortrag. Er diskutiert anhand dieser beiden für den Serialis
+ mus zentralen Beispiele das Verhältnis von kompositorischer Praxis und musi
+ kalischer Forschung und zeigt\, wie sich im Falle des Serialismus diese Ebe
+ nen befruchten\, durchdringen und teils überblenden.</p>\n
+DTSTART:20230922T143000Z
+LOCATION:Raum 129 (Opernschule)\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Mario Cosimo Schmidt: Das Verhältnis von kompositorischer Praxis un
+ d theoretischer Forschung im Darmstädter Serialismus
+DTEND:20230922T150000Z
+END:VEVENT
+END:VCALENDAR

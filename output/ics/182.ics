@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:182
+DESCRIPTION:<p>Die Improvisation büßte ihre wichtige Rolle\, die sie in der
+  Musizierpraxis der Neuzeit lange Zeit gespielt hatte\, im Laufe des 19. Ja
+ hrhundert nach und nach ein und hat heutzutage mit Ausnahme des Jazz und ma
+ nch anderer Strömung zeitgenössischer Musik ihren ursprünglichen Stellenwer
+ t weitgehend verloren. Erst in jüngerer Zeit ist wieder ein verstärktes kün
+ stlerisches und wissenschaftliches Interesse an improvisierter Musik auch i
+ n historischen Stilen zu beobachten. Im Bereich der Musiktheorie wurde die 
+ „Partimento-Tradition“ des 18. Jahrhunderts wiederentdeckt und als Folge vo
+ n Quellenerschließung und Aufarbeitung an einigen Ausbildungsinstituten cur
+ ricular verankert. Doch der Improvisationspraxis des 19. Jahrhunderts ist b
+ isher deutlich weniger Aufmerksamkeit zuteilgeworden. Erst seit wenigen Jah
+ ren ist hier ein verstärktes Forschungsinteresse zu verzeichnen: beispielsw
+ eise bei Dana Gooley\, der das improvisatorische Schaffen einzelner Persönl
+ ichkeiten des 19. Jahrhunderts beleuchtet\, oder bei Philip Feldhordt\, der
+  die Fantasierschule Czernys untersucht und dabei auch das allmähliche Zurü
+ ckgehen der Improvisationspraxis im 19. Jahrhundert thematisiert.</p>\n<p>I
+ m Rahmen eines Lecture-Recitals soll sich der Thematik mit einem künsterisc
+ h-wissenschaftlichen Ansatz genähert werden: Der Vortrag von freien und geb
+ undenen Klavierimprovisation in Stilen des 19. Jahrhunderts\, teils auch na
+ ch Wünschen des Auditoriums\, wird flankiert von Kommentaren\, in denen ein
+ e historische Einordnung und Kontextualisierung vorgenommen wird\, historis
+ che Quellen zum Thema Improvisation vorgestellt und Erfahrungen aus der kün
+ stlerischen und pädagogischen Praxis gegenübergestellt werden.</p>\n
+DTSTART:20230922T150000Z
+LOCATION:Kammermusiksaal\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im 
+ Breisgau\nGermany
+SUMMARY:Georg Thoma: Improvisation in Stilen des 19. Jahrhunderts
+DTEND:20230922T153000Z
+END:VEVENT
+END:VCALENDAR

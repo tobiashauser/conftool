@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:189
+DESCRIPTION:<p>Genesis gehören zu den einflussreichsten und prägendsten Mus
+ ikgruppen des 20. Jahrhunderts. Seit Gründung der Band in den späten Sechzi
+ gerjahren nutzen die Mitglieder immer wieder neuartige Instrumente\, um ein
+ erseits ihren symphonischen Sound zu kreieren\, aber auch um das Ausscheide
+ n von Musikern auszugleichen.</p>\n<p>Zum Kernistrumentarium gehörten u.a. 
+ Synthesizer\, Basspedale\, Drumcomputer und das Mellotron. Alle diese Instr
+ umente waren zu ihrer Zeit innovativ und auf höchstem technischen Standard.
+  Dennoch hatten sie im Vergleich zu heutigen Instrumenten enorme Limitation
+ en. Die daraus entstehenden Herausforderungen führten bei Genesis häufig zu
+  interessanten Lösungen für ihre Kompositionen und manche dieser Aspekte wu
+ rden Teil ihres unverwechselbaren Personalstils.</p>\n<p>In diesem Vortrag 
+ werden einige der verwendeten Instrumente besprochen und es wird anhand von
+  ausgewählten Beispielen aufgezeigt\, wie diese Instrumente direkten oder i
+ ndirekten Einfluss auf die Kompositionen hatten.</p>\n
+DTSTART:20230923T103000Z
+LOCATION:Raum 156\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Dennis Mayer: Der Einfluss des Instrumentariums auf die Komposition
+ en der Band Genesis
+DTEND:20230923T110000Z
+END:VEVENT
+END:VCALENDAR

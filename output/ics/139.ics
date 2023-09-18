@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:139
+DESCRIPTION:<p>Kontrapunktstudien waren für viele angehende Komponistinnen 
+ und Komponisten des 18. und 19. Jahrhundert ein grundlegender Teil der musi
+ kalischen Ausbildung. Das zeigen nicht nur Berichte in Biografien oder über
+ lieferte Skizzen\, sondern dieses Fach wurde auch an Konservatorien oder im
+  Privatunterricht gelehrt. Dabei ist es oftmals schwierig zu ermitteln\, we
+ lche Bezüge sich zwischen – scheinbar nur für wenige Gattungen bzw. Stile r
+ elevanten – fortgeschrittenen Kontrapunkttechniken und dem zeitgenössischen
+  Musikschaffen herstellen lassen. Kurz gesagt: Was lässt sich daran lernen\
+ , lässt man explizit imitatorische Gattungen der Kirchenmusik beispielsweis
+ e oder Fugen sowie Kanons in sinfonischen Werken etwa außer Acht?</p>\n<p>I
+ n diesem Vortrag soll am Beispiel des Komponisten César Franck (1822–1890) 
+ skizziert werden\, welche Verbindungen zwischen seinem Unterricht bei Antoi
+ ne Reicha und seiner späteren Kompositionspraxis bestehen könnten. Den Ausg
+ angpunkt der Untersuchung bilden Francks Unterrichtsmitschriebe zu einem Ko
+ ntrapunktlehrgang\, den er in Privatlektionen 1835–36 bei Reicha in Paris d
+ urchlief. Die Inhalte dieses Unterrichts sollen zunächst kurz vorgestellt w
+ erden. In einem zweiten Schritt soll dann anhand von Francks Sinfonie in d-
+ Moll gezeigt werden\, dass sich die im Kontrapunktunterricht geübten kompos
+ itorischen Verfahren weitgehend mit den Techniken der für seine spätere Kom
+ positionspraxis charakteristischen ‚thematischen Arbeit‘ in Übereinstimmung
+  bringen lassen.</p>\n
+DTSTART:20230922T130000Z
+LOCATION:Raum 117\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Nathalie Meidhof: Hat César Franck im Kontrapunktunterricht bei Ant
+ oine Reicha ‚thematische Arbeit‘ geübt? Hinweise zur Kompositionsdidaktik i
+ m 19. Jahrhundert aus seinen Unterrichtsmitschrieben
+DTEND:20230922T133000Z
+END:VEVENT
+END:VCALENDAR

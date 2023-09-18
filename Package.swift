@@ -23,6 +23,7 @@ let package = Package(
 		.package(url: "https://github.com/pointfreeco/swift-web", branch: "master"),
 		.package(url: "https://github.com/swiftcsv/SwiftCSV.git", from: "0.8.0"),
 		.package(url: "https://github.com/YusukeHosonuma/SwiftPrettyPrint", from: "1.2.0"),
+		.package(url: "https://github.com/chan614/iCalSwift", from: "1.2.0"),
 	],
 	targets: [
 		.executableTarget(
@@ -46,6 +47,7 @@ let package = Package(
 				.product(name: "HtmlCssSupport", package: "swift-web"),
 				.product(name: "SwiftPrettyPrint", package: "SwiftPrettyPrint"),
 				.product(name: "SwiftCSV", package: "SwiftCSV"),
+				.product(name: "ICalSwift", package: "ICalSwift"),
 			],
 			resources: [.process("script.js")]
 		),

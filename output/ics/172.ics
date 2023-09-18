@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:172
+DESCRIPTION:<p align="justify">musiconn.publish (https://musiconn.qucosa.de
+ /) ist das Open-Access-Repositorium für musikwissenschaftliche und musikbez
+ ogene Fachliteratur. Das vom Fachinformationsdienst Musikwissenschaft berei
+ tgestellte Repositorium bietet aktuell Zugriff auf über 2000 monographische
+  Veröffentlichungen und über 10 Fachzeitschriften\, darunter bspw. <em>Die 
+ Musikforschung</em> und das <em>Bach-Jahrbuch</em>. Dabei wird das Reposito
+ rium aktuell für weitere Publikationsformen geöffnet und soll zukünftig neb
+ en PDF-Dateien auch Veröffentlichungen mit multimodalen und multimedialen I
+ nhalten (Bildergalerien\, Audios\, Videos\, Noten\, Forschungsdaten\, dynam
+ ische Statistiken usw.) in HTML und anderen Formaten ermöglichen (enhanced 
+ publications)\, wofür bereits Publikationen musiktheoretischer\, musikpädag
+ ogischer und künstlerischer Forschung in Planung sind. </p>\n<p align="just
+ ify">In einem 90-minütigen Workshop werden die gegenwärtigen und zukünftige
+ n Servicebestandteile von musiconn.publish sowie die dahinterstehenden tech
+ nologischen Entwicklungen vorgestellt und für eine weiterhin Community nahe
+  Ausrichtung des Angebots mit den Teilnehmenden diskutiert. Im Mittelpunkt 
+ des Workshops stehen dabei insbesondere Fragen zur Rechteklärung\, zur Lang
+ zeitarchivierung und Referenzierbarkeit\, zur Rechteausweisung (CC-Lizenzen
+ ) und zu verschiedenen Open-Access-Modellen im Fachrepositorium und darüber
+  hinaus. Anhand konkreter Beispiele sollen juristische Stolpersteine erläut
+ ert werden. Denn gerade im Bereich der künstlerischen Forschung sind die re
+ chtlichen Fragestellungen beim Online-Publizieren komplex. Bei den u. a. mi
+ thilfe von Videoaufnahmen dokumentierten Performances sind nicht allein Urh
+ eber- und Leistungsschutzrechte\, sondern auch Persönlichkeitsrechte vorab 
+ zu berücksichtigen\, damit eine spätere Veröffentlichung überhaupt möglich 
+ ist. </p>\n<p align="justify"> Die Leistungen\, die der FID für das elektro
+ nische Publizieren für Autor*innen und Herausgeber*innen bietet\, sowie die
+  etablierten Workflows und Kooperationen mit Verlagen und anderen Akteuren 
+ werden ausführlich besprochen. Der Workshop ist auf einen intensiven und of
+ fenen Austausch mit den Teilnehmenden ausgelegt. Rückfragen\, Anregungen un
+ d die Anmeldung neuer Bedarfe sind herzlich willkommen!</p>\n
+DTSTART:20230923T093000Z
+LOCATION:Senatssaal\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breis
+ gau\nGermany
+SUMMARY:Christian Kämpf: Open-Access-Workshop – Digitales Publizieren im Fa
+ chrepositorium musiconn.publish
+DTEND:20230923T110000Z
+END:VEVENT
+END:VCALENDAR

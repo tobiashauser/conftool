@@ -161,6 +161,7 @@ struct Main: ParsableCommand {
 			
 			let cwd = try Folder(path: FileManager().currentDirectoryPath)
 			let output = try cwd.createSubfolderIfNeeded(withName: "output")
+			let ics = try output.createSubfolderIfNeeded(withName: "ics")
 			
 			let index = try output.createFileIfNeeded(withName: "index.html")
 			let styles = try output.createFileIfNeeded(withName: "styles.css")
@@ -197,6 +198,16 @@ struct Main: ParsableCommand {
 			)
 			try styles.write(Core.styles())
 			try script.write(Core.script())
+			
+			// Write the ics files
+			for entry in entries + additionalEntries {
+				do {
+					let file = try ics.createFileIfNeeded(withName: entry.icsName)
+					try file.write(entry.ical.vEncoded)
+				} catch {
+					print("Error while writing the ics-file for \(entry.title).")
+				}
+			}
 			
 			print("Created website at '\(index.path)'.")
 			print("Accepted \(entries.count + additionalEntries.count) entries | Rejected \(failing.count)")

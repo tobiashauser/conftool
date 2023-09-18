@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:190
+DESCRIPTION:<p>Das von Beethoven bis an sein Lebensende aufbewahrte Konvolu
+ t seiner eigenen Satzlehrearbeiten aus den 1790er-Jahren\, bei der Nachlass
+ versteigerung 1827 durch den Verleger Tobias Haslinger erworben\, in dessen
+  Auftrag durch Ignaz v. Seyfried 1832 herausgegeben\, in dieser stark bearb
+ eiteten Edition zwar kommerziell erfolgreich\, jedoch – zum Beispiel schon 
+ 1852 durch Anton Schindler und dann besonders 1872 durch Gustav Nottebohm –
+  vernichtend kritisiert und schließlich erst 2014 durch Julia Ronge im Rahm
+ en der Gesamtausgabe neu ediert\, stellt in seiner Geschichte ein prominent
+ es Studienobjekt dar\, an dem einige der Verschiebungen im Detail untersuch
+ t werden können\, für die Ludwig Holtmeier 2010 den Begriff einer «feindlic
+ hen Übernahme» der traditionellen Kompositionslehre durch eine «bürgerliche
+  Harmonielehre» des 19. Jahrhunderts geprägt hat: Im vorliegenden Fall wird
+  ein ursprünglich aus dem Kontext einer vorinstitutionellen handwerklich-pr
+ ofessionellen Ausbildung stammendes Dokument zunächst im Zuge der nachträgl
+ ichen Konstruktion einer spezifisch «Wienerischen» Lehrtradition in der Nac
+ hfolge Johann Georg Albrechtsbergers zum modellierbaren Versuchsobjekt\, da
+ nn schnell zum unveränderlich konservierten Grundstein einer schon längst i
+ m Gang befindlichen Denkmal- und Legendenbildung. Schließlich wird es nur n
+ och unter dem Aspekt von in der Musik neuartigen philologischen Methoden be
+ trachtet und damit dem ursprünglichen musikalisch-handwerklichen Zugang ent
+ zogen.</p>\n<p>Die vielleicht interessanteste und dabei bis heute am stärks
+ ten missverstandene Position in diesem Zusammenhang scheint bei näherer Bet
+ rachtung diejenige des ersten Herausgebers Seyfried zu sein\, in dessen edi
+ torischer Unternehmung widerstreitende Tendenzen seiner Zeit gebündelt auft
+ reten: Einerseits versteht er sich noch als kompetenter Fortführer der alte
+ n Lehrtradition\, andererseits trägt er etwa mit den seiner Edition hinzuge
+ fügten Anekdoten über Beethoven zur Musealisierung und Kommerzialisierung e
+ ines modernen Beethovenbilds bei. Zusätzliches Licht auf Seyfrieds Beschäft
+ igung mit Beethoven werfen seine orchestralen Bearbeitungen von Klavier- un
+ d Kammermusikwerken Beethovens im Sinne einer «Instrumentation als Analyse»
+ \, die in diesem Beitrag als mögliche Alternative zur Akademisierung und «k
+ ünstlerische Forschung» avant la lettre ebenfalls thematisiert werden soll.
+ </p>\n
+DTSTART:20230922T143000Z
+LOCATION:Raum 101\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Martin Skamletz: Von der Kompositionslehre zur Philologie: Die Ablö
+ sung von musiktheoretischen durch musikwissenschaftliche Ansätze im 19. Jah
+ rhundert am Beispiel von "Beethoven’s Studien"
+DTEND:20230922T150000Z
+END:VEVENT
+END:VCALENDAR

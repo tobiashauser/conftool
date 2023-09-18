@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:175
+DESCRIPTION:<p>In diesem Vortrag wird untersucht\, welche Verbindung zwisch
+ en Künstlicher Intelligenz (KI) und Musiktheorie hergestellt werden kann\, 
+ und an welcher Stelle überhaupt Berührungspunkte vorhanden sind. Insbesonde
+ re werden wir uns mit der Frage beschäftigen\, wie KI-Technologien die Komp
+ osition von Musik unterstützen können. Zusätzlich wird auch hinterfragt\, w
+ elche Vorteile und Nachteile sich für einen didaktischen Ansatz ergeben\, u
+ nd welche Aspekte wir als Musiktheoretiker*innen in den kommenden Jahren in
+  Betracht ziehen sollten. Darüber hinaus werden wir auch diskutieren\, welc
+ he Auswirkungen bestimmte Entwicklungen auf die Musiktheorie haben könnten.
+ </p>\n<p>Dabei werden wir uns auf Beispiele aus der aktuellen Forschung bez
+ iehen.</p>\n<p>Zunächst wird sich dieser Vortrag mit Chat-GPT und der Techn
+ ologie des Prompt Engineering sowie deren Relevanz für die Musiktheorie bef
+ assen. Mit der geradezu revolutionären Einführung von Chat-GPT im November 
+ 2022 wurde erstmals künstliche Intelligenz für die breite Öffentlichkeit zu
+ gänglich gemacht und von dieser enorm und schnell angenommen. Chat-GPT ist 
+ ein intelligentes Dialogmodell\, das in der Lage ist\, auf Folgefragen zu a
+ ntworten\, einige Fehler zu korrigieren\, falsche Annahmen herauszufiltern 
+ und unangemessene Anfragen abzulehnen.</p>\n<p>Das Weiteren werden Modelle\
+ , die Musik direkt erzeugen können\, vorgestellt und gegebenenfalls hinterf
+ ragt. Coconet versucht Choräle von J.S. Bach zu rekonstruieren oder Lücken 
+ zu füllen. Soundraw und AIVA versuchen echte Kompositionen in zahlreichen G
+ enres und Besetzungen zu generieren. Hinter solchen Programmen verstecken s
+ ich ethische Fragen zum Beispiel: zum Urheberrecht und zur Zukunft des Küns
+ tlersubjekts an sich.</p>\n<p>Abschließend geht es um die Bearbeitung einer
+  Audio-Datei\, um Midi-Dateien zu erzeugen oder einzelne Tracks eines ferti
+ gen Songs zu extrahieren. Programme wie Piano Scribe oder Lalal.AI können n
+ eue Möglichkeiten für digitale Konzepte in der Lehre eröffnen.</p>\n
+DTSTART:20230922T143000Z
+LOCATION:Raum 137 (Rhythmiksaal)\nMendelssohn-Bartholdy-Platz 1\n79102 Frei
+ burg im Breisgau\nGermany
+SUMMARY:Pierre Basso: Musiktheorie und Künstliche Intelligenz: Was ist der 
+ Stand?
+DTEND:20230922T150000Z
+END:VEVENT
+END:VCALENDAR

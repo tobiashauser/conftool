@@ -35,4 +35,9 @@ public struct Author: Equatable, Codable {
 		self.lastname = lastname
 		self.organisation = organisation != "" ? organisation : nil
 	}
+	
+	/// The full name of the author.
+	public var fullName: String {
+		self.firstname + " " + self.lastname
+	}
 }

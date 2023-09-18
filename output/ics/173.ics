@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:173
+DESCRIPTION:<p>Wenn die Musiktheorie einer Musik ihre Analyse zumutet\, sch
+ eint es angebracht\, umgekehrt einer Analyse auch eine Aufführung zuzumuten
+ . Analyse (ἀνάλυσις) bedeutet ursprünglich »Auflösung\, Zergliederung«\, Pe
+ rformanz\, von <em>per formare</em>\, verweist hingegen auf den Gedanken de
+ s Zusammenfügens oder Ausbildens. Dieser Beitrag möchte das Verhältnis von 
+ Analyse und Kunst anhand eines ›klassischen‹ Beispiels durchspielen und Got
+ tfried Webers Analyse des Beginns von Mozarts Dissonanzenquartett als Perfo
+ rmance auf die Bühne bringen. In sprachlich markierter Weise inszeniert Web
+ er seinen Analysetext als Erlebnis\, bei dem der:die Leser:in verführt zu w
+ erden scheint\, der uneindeutigen Klangsituation von Mozarts Beginn Gehör z
+ u schenken (vgl. Fischer-Lichte 1998).</p>\n<p>Wir befragen den musiktheore
+ tischen Text im <em>Close Reading </em>als künstlerischen Gegenstand hinsic
+ htlich dramaturgischer Hinweise. Das Gehör als Protagonist geht bei Weber a
+ uf der Suche nach Erkenntnis mehrfach durch die Anfangstakte und kann sich 
+ in der musikalischen Zeit und im musikalischen Raum multiperspektivisch bew
+ egen (vgl. Moreno 2008 sowie Utz 2013). Sein Handlungsspielraum bleibt jedo
+ ch eingeschränkt. Es stellt Fragen\, zweifelt und hat Entscheidungsoptionen
+ . Gleichzeitig wird es aber auch von der Musik gereizt\, befremdet und in d
+ ie Irre geführt. Im Transformationsprozess für die Performance ist es uns e
+ in Anliegen\, die Diskursivität\, die Webers analytischen Beobachtungen inn
+ ewohnt\, zum Vorschein zu bringen.</p>\n<p>In interdisziplinärer Zusammenar
+ beit mit einer Musikdramaturgiestudentin und einem Regiestudenten werden We
+ bers Regieanweisungen offengelegt und in eine Perfomance gebracht. Beim Kon
+ gress wird das künstlerische Ergebnis aufgeführt.</p>\n<p>Ein essentieller 
+ Bestandteil ist neben der inhaltlichen Arbeit die Selbstreflexion als Musik
+ theoretiker:innen im Arbeitsprozess mit dem Text. Wie verändert sich der al
+ ltagsgewisse musiktheoretisch-analytische Zugang in der Konfrontation mit k
+ ünstlerischen Fragen und Prozessen? Inwieweit führen wir Musikstücke auf\, 
+ wenn wir eine Analyse im Unterrichtskontext kollaborativ (er)proben? Welche
+  Macht- und Autoritätsverhältnisse wirken in einer Analyse?</p>\n<p>Ein ref
+ lektierender Begleittext wird zur Verfügung gestellt\, es ist jedoch kein m
+ ündlicher Vortragsteil vorgesehen. In der anschließenden Diskussion können 
+ Fragen an die Musiktheorie sowie Dramaturgie und Regie gerichtet werden.</p
+ >\n
+DTSTART:20230923T100000Z
+LOCATION:Kammermusiksaal\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im 
+ Breisgau\nGermany
+SUMMARY:Anne Hameister/Sangjin Han/Amelie Lopper/Oliver Mathes: Gottfried W
+ eber performen: Einen Kunstversuch »Ueber eine besonders merkwürdige Stelle
+  in einem Mozart'schen Violinquartett aus C«
+DTEND:20230923T103000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:171
+DESCRIPTION:<p>Die „Ensaladas“ (zu deutsch: Salate) verdienen – unter ander
+ em aufgrund ihrer außergewöhnlichen Vielfalt – ein eigenes Kapitel in der G
+ eschichte der spanischen Renaissancemusik. Unter dem Begriff der „Ensaladas
+ “ werden Werke zusammengefasst\, die verschiedene Sprachen\, Verslängen\, M
+ ensuren\, literarische und musikalische Zitate sowie Elemente der Volksmusi
+ k und des Motettenstils innerhalb eines Werks miteinander verbunden\, präse
+ ntieren. Das kompositorische Schaffen\, die große Vielfalt von Zutaten zu e
+ iner Einheit zusammentreten zu lassen\, ist hierbei auch namensgebend für d
+ ie musikalische Gattung – Salat (Ensaladas). </p>\n<p>Hierbei stellt sich u
+ nweigerlich die Frage\, wie trotz der Integration ganz unterschiedlicher Te
+ ile kohärente und auf formaler wie dramaturgischer Ebene überzeugende Stück
+ e geschaffen werden. Während es gründliche Forschungsarbeiten gibt\, die di
+ e musikhistorischen Aspekte der Ensaladas untersuchen\, ist die Untersuchun
+ g der musikalischen Ebene nach wie vor ein Desiderat. An dieser Stelle setz
+ t mein Vortrag an.</p>\n<p>Der Komponist Mateo Flecha der Ältere (1481-1553
+ ) gilt als federführend in dieser musikalischen Gattung. Am Beispiel von „E
+ l Fuego“\, einer seiner längsten „Ensaladas“ (der Text umfasst über 100 Ver
+ se)\, soll aufgezeigt werden\, mit welchen kompositorischen Mitteln ein der
+ art langes Werk so konzipiert ist\, dass trotz aller Abwechslung ein großer
+  Zusammenhang erzielt wird.</p>\n
+DTSTART:20230922T143000Z
+LOCATION:Raum 156\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Elías Hostalrich Llopis: Geordnetes Durcheinander – Formale Strateg
+ ien in der Ensalada „El Fuego“ von Mateo Flecha dem Älteren
+DTEND:20230922T150000Z
+END:VEVENT
+END:VCALENDAR

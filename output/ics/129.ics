@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:129
+DESCRIPTION:<p>Musik kann im Film eine Vielzahl verschiedener Funktionen er
+ füllen\, um eine bestimmte von RegisseurIn oder FilmkomponistIn intendierte
+  Wirkung auf das Publikum zu erzielen (vgl. Bullerjahn 2001\, 59). Sie kann
+  beispielsweise Bewegungen im Bild illustrieren (vgl. Gervink\, Bückle 2012
+ \, 241-245)\, die Wahrnehmung eines bestimmten Filmcharakters beeinflussen 
+ (vgl. Hoeckner et.al. 2011)\, „epische Bezüge herstellen“ (Schneider 2005\,
+  67) und vieles mehr. Im Falle von Horror- oder Thrillerfilmen wird Musik o
+ ft im Sinne des „Foreshadowing“ (nach Chatman 1978) verwendet\, d.h. um das
+  Publikum die kommenden Ereignisse bereits voraus ahnen zu lassen (vgl. Klo
+ ppenburg 2012\, 141).</p>\n<p>Im Filmen dieser Genres ist jedoch noch ein w
+ eiteres einheitliches Gestaltungsprinzip in Bezug auf den Einsatz von Musik
+  erkennbar: Hier wird filmübergreifend sehr ähnlich gestaltete Musik in Sze
+ nen eingesetzt\, in denen zu Beginn der Handlung ein Charakter zum ersten M
+ al einen Ort erkundet\, welcher sich später als „Quelle des Übernatürlichen
+ “ entpuppen soll. Im Rahmen des Vortrags wird dieses Gestaltungsprinzip anh
+ and verschiedener Szenen aktueller Thriller- und Horrorfilme demonstriert u
+ nd die ihm zugrundeliegenden musiktheoretischen Gestaltungsmerkmale im Zusa
+ mmenhang mit den bildgestalterischen und dramaturgischen Gegebenheiten vorg
+ estellt.</p>\n<p>Abschließend wird erörtert\, in wie weit die daraus abgele
+ iteten Erkenntnisse zu einer „filmmusikalischen Topologie zur Charakterisie
+ rung von Geisterorten“ ein Modell zur analytischen sowie künstlerisch-prakt
+ ischen Annäherung an stereotyp gestaltete Filmmusik solcher Szenen liefern 
+ können.</p>\n
+DTSTART:20230923T093000Z
+LOCATION:Raum 129 (Opernschule)\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Susanne Hardt: Charakterisierung von „Geisterorten“ – eine filmmusi
+ kalische Topologie
+DTEND:20230923T100000Z
+END:VEVENT
+END:VCALENDAR

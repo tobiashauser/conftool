@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:194
+DESCRIPTION:<p>The presentation will showcase an improvisational performanc
+ e by a duo consisting of a rapper and an analog synthesizer player. From an
+  artistic research perspective\, the project explores several pairs of inte
+ ractions during the performative process: the analog-synthesized sound and 
+ the rapping voice (Hörner and Kautny 2009)\; the individual and the collect
+ ive (Linson and Clarke 2017)\; and the semantic content and the sonic featu
+ res. Apart from the performative activity\, music analysis and self-reflect
+ ion are also implemented\, not only during but also after the performance. 
+ The digital recordings of the performance enable the spontaneous moment to 
+ be accessible and provide possibilities for distanced analysis and reflecti
+ on.</p>\n<p>The project has established a model that could contribute to th
+ e domain of contemporary music improvisation. With the knowledge gained fro
+ m composition and electroacoustic music studies\, the musicians are able to
+  focus on the structure of the performance. Instead of a pre-planned struct
+ ure\, the improvisation focuses on a constructive process based on the intu
+ itive perception of time\, real-time analysis\, and the exchange of musical
+  materials between the musicians. As a trigger of inspiration\, several lin
+ es of rhymed words or short sentences as rap lyrics are either prepared or 
+ written spontaneously before the improvisation\, which could lead to an une
+ xpected story\, narration\, and transformation of the structure.</p>\n
+DTSTART:20230922T160000Z
+LOCATION:Kammermusiksaal\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im 
+ Breisgau\nGermany
+SUMMARY:Fu Tian/Anton Tkachuk: A Methodological Approach to Freestyle Rap i
+ n Contemporary Improvisation
+DTEND:20230922T163000Z
+END:VEVENT
+END:VCALENDAR

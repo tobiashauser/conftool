@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:167
+DESCRIPTION:<p>Tigran Hamasyan (*1987) ist ein armenischer Jazzpianist und 
+ -komponist\, dessen Stil sich vor allem durch eine hohe rhythmische Komplex
+ ität\, sowie durch Einflüsse aus traditioneller armenischer Musik auszeichn
+ et. Insbesondere seine Alben ‚Shadow Theater‘ (2013) und ‚The Call Within‘ 
+ (2020) sind stark durch die Verwendung komplexer Rhythmustechniken geprägt\
+ , darunter beispielsweise polymetrische Strukturen\, ungleichmäßige Taktunt
+ erteilungen\, mikrorhythmische Fünfteilungen oder metrische Modulationen.</
+ p>\n<p>Im Rahmen des Vortrags soll anhand von Beispielen gezeigt werden\, w
+ ie die Beschaffenheit solcher Phänomene mithilfe des aus Südindien stammend
+ en Rhythmic Solfege (Rafael Reina\, 2015) analysiert und verinnerlicht werd
+ en kann\, welches in den letzten Jahrzehnten u.a. für die Rhythmuspädagogik
+  an niederländischen Conservatorien immer mehr an Bedeutung gewonnen hat. I
+ n Bezug auf Hamasyans Musik eignet sich dieser Ansatz besonders\, da er nic
+ ht in erster Linie auf Notation\, sondern vielmehr auf einem direkten Zusam
+ menspiel von Wahrnehmung und Ausführung beruht.  </p>\n<p>Zudem soll unter 
+ Bezugnahme auf Untersuchungen von Fred Lerdahl und Ray Jackendoff (1983) au
+ f Grundsatzfragen der metrischen Wahrnehmung eingegangen werden\, wie beisp
+ ielsweise auf die Frage nach Kriterien für das Empfinden einer metrischen Z
+ ählzeit\, die sich beim Anfertigen von Transkriptionen in diesem Bereich un
+ mittelbar stellt. Im Zuge dessen soll schließlich diskutiert werden\, in we
+ lchen Aspekten Hamasyans Musiksprache über die von Lerdahl/Jackendoff vor a
+ llem für westliche klassische Musik aufgestellten Grundsätze hinausgeht und
+  wie letztere dementsprechend erweitert werden könnten.</p>\n
+DTSTART:20230923T100000Z
+LOCATION:Raum 156\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Aljoscha Ristow: Rhythmische Konzepte in der Musik von Tigran Hamas
+ yan
+DTEND:20230923T103000Z
+END:VEVENT
+END:VCALENDAR

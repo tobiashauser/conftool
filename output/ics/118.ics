@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:118
+DESCRIPTION:<p>In der modernen Lautenistik wurde sowohl von musikwissenscha
+ ftlicher als auch von instrumentalpraktischer Seite häufig auf die enormen 
+ spieltechnischen Probleme aufmerksam gemacht\, die den Werken einzelner Lau
+ tenkomponisten der zweiten Hälfte des 16. Jahrhunderts innewohnen. Steht di
+ eser Befund zwar unwidersprochen fest\, so unterschieden sich doch die Umga
+ ngsweisen mit den problematischen Stücken: während in wissenschaftlichen Be
+ iträgen lange die (unhinterfragte) Annahme populär war\, dass Lautenisten w
+ ie Melchior Neusidler (ca. 1531-1594) oder Giovanni Antonio Terzi (ca. 1580
+ -1620) ihre Werke genauso spielten\, wie sie überliefert sind\, vermieden m
+ oderne Praktikerinnen pragmatisch jene Teile des Repertoires\, die ‚unspiel
+ bar‘ scheinende Passagen aufweisen. Dies wirft die Frage auf\, ob Lautenist
+ en früherer Zeiten schlichtweg versierter waren oder ob es andere Erklärung
+ en für das gehäufte Auftreten von ‚unlautenistischen Passagen‘ in Lautenbüc
+ hern ab ca. 1550 gibt.</p>\n<p>Melchior Neusidlers Werke eignen sich in bes
+ onderer Weise zur Untersuchung dieser Fragestellung\, da sie erstens reich 
+ an spieltechnisch problematischen Passagen sind und zweitens in sehr unters
+ chiedlichen Überlieferungsmedien erhalten sind\, u. a. in Autographen\, von
+  Neusidler autorisierten Drucken und in Abschriften professioneller Lauteni
+ sten der Zeit. In vergleichenden Analysen konnte ich charakteristische Abwe
+ ichungen feststellen\, die von der jeweiligen Quellenart und ihrer Funktion
+  abhängen. So stehen handschriftliche Tabulaturen dem Musizieren näher\, wo
+ hingegen gedruckte Lautenbücher mit künstlerischem Anspruch die <em>komposi
+ torischen</em> Qualitäten dokumentieren – unabhängig von der tatsächlichen 
+ Ausführbarkeit am Instrument. Dies bedeutet: die Gebrauchsfunktion von Manu
+ skriptquellen garantiert die Möglichkeit der praktischen Umsetzung\, wohing
+ egen die Repräsentationsfunktion gedruckter Lautenbücher zu einer Priorisie
+ rung satztechnischer Korrektheit führt. In Zusammenarbeit mit renommierten 
+ Lautenistinnen und Gitarristen habe ich die Hypothese der quellenabhängigen
+  Detailgestaltung von Lautenwerken auch praktisch überprüft. Hierbei entsta
+ nden Videoaufnahmen\, die verdeutlichen\, dass selbst Neusidler wohl keine 
+ ‚unlautenistischen Passagen‘ spielen konnte. </p>\n<p>Ist die Überlieferung
+ ssituation weniger günstig als im Falle Neusidlers (und das ist sie in der 
+ Regel) können die gewonnenen Erkenntnisse auch auf andere Lautenmusik übert
+ ragen werden. Exemplarisch kann dies an den Lautenbüchern Giovanni Antonio 
+ Terzis erprobt werden\, die „some of the most difficult music ever written 
+ for the lute“ (Paul O’Dette) enthalten.</p>\n<p>Eine Neubewertung des Spann
+ ungsverhältnisses von ideellem Tonsatz und instrumentaler Reproduktion dess
+ elben hat sowohl für Interpretinnen als auch für Musikwissenschaftler weitr
+ eichende Implikationen und birgt das Potenzial\, weithin vernachlässigtem R
+ epertoire zu neuem Glanz zu verhelfen.</p>\n
+DTSTART:20230922T160000Z
+LOCATION:Raum 156\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im Breisga
+ u\nGermany
+SUMMARY:Ya'qub Yonas Nathem El-Khaled: "Möglich? Vielleicht. Aber nicht von
+  mir." - Neusidlers und Terzis Lautenmusik
+DTEND:20230922T163000Z
+END:VEVENT
+END:VCALENDAR

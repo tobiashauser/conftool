@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:126
+DESCRIPTION:<p>Die Unverfügbarkeit des Zitats. Vom Umgang mit Fremdkörpern 
+ in aktueller Komposition. Aus einem Forschungsvorhaben</p>\n<p>Zitiert werd
+ en kann nur\, was bereits existiert. Es muss schon auf Schreibflächen notie
+ rt\, auf Servern gespeichert oder im Gedächtnis von Lebenden aufbewahrt sei
+ n\, die es weitergeben können. Es muss also verfügbar sein. Und es wird zum
+  Zitat erst in dem Moment\, wo wir darüber verfügen\, wo wir es aus seinem 
+ Kontext herauslösen und in einen anderen verpflanzen. Zitieren ist Transpla
+ ntieren. Und das heißt: Aus einem fremden Kontext wird es dem eigenen Konte
+ xt assimiliert. Aber bleibt das Zitierte in seiner Verfügbarkeit nicht imme
+ r ein Stück weit unverfügbar\, wie ein Fremdkörper? Nachdem das Fremde in ä
+ sthetischen Debatten für ein Jahrhundert kaum eine Rolle gespielt hatte (Si
+ mmel 1908\, Waldenfels 2007)\, gewann es seit der Flüchtlingskrise im Jahr 
+ 2015 wieder an gesellschaftlicher und politischer Brisanz. Auf der Grundlag
+ e neuerer Studien (Gottstein 2015\, Nonnenmann 2018) und im Anschluss an Ha
+ rtmut Rosa (<em>Unverfügbarkeit</em>\, 2020) wird ein Weg aufgezeigt\, wie 
+ experimentell und explorativ die paradoxe Existenz von musikalischen Fremdk
+ örpern erkundet werden kann. Gezeigt wird das an einem Teilaspekt eines grö
+ ßeren eigenen Forschungsprojekts. Als Grundlegung wurde zunächst der Umgang
+  mit Zitaten in neuerer Musik exemplarisch untersucht: u.a. anhand von Popk
+ ultur-Zitaten in Werken von Alexander Schubert\, Zitaten aus älterer Musikg
+ eschichte bei Klaus Huber\, Zitaten als Spiegel von Rezeption bei Mauricio 
+ Kagel und Zitaten als sozialen Metaphern bei Johannes Kreidler. Sodann wurd
+ e mit künstlerischen Mitteln die semantische Veränderlichkeit von Zitaten d
+ urch neue Kontexte untersucht. Ausgewählt wurde für das Projekt u.a. die ch
+ romatische Linie der Streicher aus dem <em>Liebestod</em> von Wagner. Was p
+ assiert\, wenn dieses Zitat von aktueller (eigener) Musik umgeben ist? Ände
+ rt das Zitat den neuen Kontext? Und ändert umgekehrt der Kontext das Zitat?
+  Bleiben die Zitate Fremdkörper? Methodisch wird mit Stilkritik gearbeitet 
+ und durch Verfolgung seiner semiologischen Transformationen.</p>\n<p>Mein F
+ orschungsprojekt hat einen hohen musikanalytischen Anteil\, seine im Kern p
+ hilosophische Frage soll indes mit künstlerischen Methoden beantwortet werd
+ en. Die vorgestellten Untersuchungsergebnisse zeigen\, dass das Zitat der E
+ rinnerung\, der Inspiration\, der Kennerschaft und dem Wissen verfügbar ist
+ \, aber auch seine Unverfügbarkeit: Es kann zum Eigenen werden\, aber selbs
+ t bei hoher Anpassung wird es ein Anderes bleiben.</p>\n
+DTSTART:20230922T160000Z
+LOCATION:Raum 129 (Opernschule)\nMendelssohn-Bartholdy-Platz 1\n79102 Freib
+ urg im Breisgau\nGermany
+SUMMARY:Fojan Gharibnejad: Die Unverfügbarkeit des Zitats. Vom Umgang mit F
+ remdkörpern in aktueller Komposition. Aus einem Forschungsvorhaben
+DTEND:20230922T163000Z
+END:VEVENT
+END:VCALENDAR

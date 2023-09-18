@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar//iCalSwift//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230918T203159Z
+UID:108
+DESCRIPTION:<p>E. Rautavaara: Étude Op. 42 n. 5 Seconds</p>\n<p>  Étude Op.
+  42 n. 1 Thirds</p>\n<p>  Étude Op. 42 n. 4 Fourths</p>\n<p>  Étude Op. 42 
+ n. 3 Tritones</p>\n<p>  Étude Op. 42 n. 6 Fifths</p>\n<p>C. Debussy: Étude 
+ L 136 n. 4 pour les Sixths</p>\n<p>E. Rautavaara: Étude Op. 42 n. 2 Seventh
+ s</p>\n<p>C. Debussy: Étude L 136 n. 5 pour les Octaves</p>\n<p>This recita
+ l investigates the development of piano virtuosity during the 20th century\
+ , presenting a combination of the Etudes op. 42 (1969) by the Finnish compo
+ ser Einojuhani Rautavaara (1928–2016) and a selection from the first Book o
+ f Etudes (1915) by Claude Debussy (1862-1918)\, which served as a source of
+  inspiration for Rautavaara. The decision to focus on two collections of et
+ udes on intervals was influenced by the presence of this form in different 
+ historical periods and by the role it has played since the Romanticism to d
+ emonstrate virtuosity. The program presents the etudes as a complete set st
+ ructured in ascending order of intervals\, with no repetition\, revealing s
+ imilarities and differences in the composers' approaches to virtuosity and 
+ enabling the audience to recognize elements of continuity and innovation wi
+ th the tradition. The performance of the Etudes will be preceded by a discu
+ ssion that will reflect on the concept of virtuosity in piano performance b
+ y exploring the relationship between contemporary techniques and traditiona
+ l criteria of technical mastery such as speed\, precision\, power\, and dex
+ terity. By challenging the traditional notion of virtuosity in light of the
+  aesthetic and stylistic changes in modern music\, the discussion will refl
+ ect on the expectations and the skills required from performers to play thi
+ s repertoire and be recognized as virtuosos.</p>\n<p>This research combines
+  the examination of scores and interviews with pianists\, analysis of a pra
+ ctice diary\, and impressions from my public performances of Rautavaara's a
+ nd Debussy's etudes. These concerts will provide an opportunity to explore 
+ the impact of this type of virtuosity on the audience and to examine which 
+ settings are most effective to showcase this type of virtuosity\, including
+  considerations on the type of piano and acoustic.</p>\n
+DTSTART:20230922T133000Z
+LOCATION:Kammermusiksaal\nMendelssohn-Bartholdy-Platz 1\n79102 Freiburg im 
+ Breisgau\nGermany
+SUMMARY:Elisa Rumici: Piano virtuosity in the 20th century: the Etudes on i
+ ntervals by C. Debussy and E. Rautavaara
+DTEND:20230922T140000Z
+END:VEVENT
+END:VCALENDAR

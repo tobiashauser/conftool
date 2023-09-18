@@ -1,5 +1,6 @@
-import Css
+//import Css
 import Foundation
+import ICalSwift
 
 /// An entry at the congress.
 ///
@@ -116,27 +117,85 @@ public struct Entry: Equatable {
 	}
 }
 
-// MARK: - Colors
+// MARK: - iCal-Events
 
-let randomColors: [String] = [
-	"#001865", // GMTH blau
-	"#E20011",  // Mh freiburg rot
-	"#EFAC09", // yellow
-	"#831BC2",  // purple
-	"#980E91",  // violet rose
-	"#54DDDA",  // türkis
-	"#ffb1b6",  // lachs
-]
-
-var lastColor = randomColors[0]
-
-extension Array where Element: Equatable {
-	func chooseNew(_ store: inout Element) -> Element {
-		var random = self.randomElement()!
-		while random == store {
-			random = self.randomElement()!
-		}
-		store = random
-		return random
+extension Entry {
+	
+	/// An iCal (.ics) representation of the entry.
+	///
+	/// A string representation is stored in `/ics/<entry.id>.ics` (self.icsName)
+	public var ical: ICalendar {
+		let event = ICalEvent(
+			dtstamp: Date(),
+			uid: String(self.id),
+			classification: nil,
+			created: nil,
+			description: self.abstract,
+			dtstart: ICalDateTime.dateTime(self.starttime),
+			lastModified: nil,
+			location: self.location,
+			organizer: nil,
+			priority: nil,
+			seq: nil,
+			status: nil,
+			summary: self.icsSummary,
+			transp: nil,
+			url: nil,
+			dtend: ICalDateTime.dateTime(self.endtime),
+			duration: nil,
+			recurrenceID: nil,
+			rrule: nil,
+			rdate: nil,
+			exdate: nil,
+			alarms: [],
+			timeZone: nil,
+			attachments: [],
+			extendProperties: [:]
+		)
+		
+		return ICalendar(
+			prodid: .init(),
+			calscale: nil,
+			method: nil,
+			events: [event],
+			timeZones: [],
+			alarms: []
+		)
 	}
+	
+	/// The location of the event.
+	var location: String {
+	"""
+	\(self.session.room)
+	Mendelssohn-Bartholdy-Platz 1
+	79102 Freiburg im Breisgau
+	Germany
+	"""
+	}
+	
+	/// The name of the ics-file
+	public var icsName: String {
+		String(self.id) + ".ics"
+	}
+	
+	/// A version of the abstract that removes all HTML-tags.
+	///
+	/// NOT NECESSARY. I think the html tags are stripped by the calendar.
+	var sanitizedAbstract: String? {
+		self.abstract
+	}
+	
+	/// The title for the ics-file.
+	var icsSummary: String {
+		if let authors = self.authors?.map(\.fullName).joined(separator: "/") {
+			return authors + ": " + self.title
+		} else {
+			return self.title
+		}
+	}
+	
+	/// The description for the ics-file.
+//	var icsDescription: String {
+//		+ (self.abstract ?? "")
+//	}
 }
