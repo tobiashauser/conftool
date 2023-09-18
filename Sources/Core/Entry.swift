@@ -177,7 +177,7 @@ extension Entry {
 	public var icsName: String {
 //		String(self.id) + ".ics"
 		if let author = self.authors?.first?.lastname {
-			return author + ".ics"
+			return author + "-" + String(self.id) + ".ics"
 		} else {
 			return String(self.id) + ".ics"
 		}
