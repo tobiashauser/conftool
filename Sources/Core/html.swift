@@ -114,8 +114,8 @@ func entryHeading(_ data: Entry) -> Node {
 func entryBody(_ data: Entry) -> Node {
 	.div(
 	entryAbstract(data)
-	, entrySession(data)
 	, entryExpandButton(data)
+	, entrySession(data)
 	)
 }
 
@@ -152,6 +152,7 @@ func entrySession(_ data: Entry) -> Node {
 func entryExpandButton(_ data: Entry) -> Node {
 	if data.abstract != nil {
 		return .div(
+			attributes: [.style(safe: "display: inline;")],
 			.div(
 				attributes: [
 					.class("expand button highlightUnderline highlightColor")
