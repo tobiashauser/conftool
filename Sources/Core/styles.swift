@@ -176,6 +176,7 @@ let abstractInformationStyle = (session | expand | collapse) % (
 
 let sessionStyle = session % (
 	float(.right)
+	<> key("text-align", "right")
 )
 
 let expandStyle = expand % (

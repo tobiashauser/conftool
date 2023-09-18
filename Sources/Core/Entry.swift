@@ -116,8 +116,7 @@ public struct Entry: Equatable {
 	}
 }
 
-
-// MARK: Colors
+// MARK: - Colors
 
 let randomColors: [String] = [
 	"#001865", // GMTH blau

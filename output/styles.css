@@ -121,7 +121,8 @@ hr {
 }
 
 .session {
-  float : right;
+  float      : right;
+  text-align : right;
 }
 
 .expand {
