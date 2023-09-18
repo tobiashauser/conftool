@@ -103,7 +103,11 @@ public struct Entry: Equatable {
 		self.endtime = endtime
 		self.title = title
 		self.type = type != "" ? type : nil
-		self.abstract = abstract != "" ? abstract : nil
+		self.abstract = abstract != ""
+		&& abstract != "<p>[Abstract]</p>\n"
+		&& abstract != "<p>[Abstract folgt]</p>\n"
+		? abstract
+		: nil
 		self.biography = biography != "" ? biography : nil
 		self.authors = authors != [] ? authors : nil
 		self.session = session

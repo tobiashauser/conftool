@@ -120,6 +120,7 @@ func entryBody(_ data: Entry) -> Node {
 }
 
 func entryAbstract(_ data: Entry) -> Node {
+//	print(data.abstract, "\n-------------\n")
 	if let abstract = data.abstract {
 		return .div(
 			attributes: [
