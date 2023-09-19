@@ -3,24 +3,6 @@ function performOnload() {
 	scrollToNow();
 }
 
-// Determines if the passed element is overflowing its bounds,
-// either vertically or horizontally.
-// Will temporarily modify the "overflow" style to detect this
-// if necessary.
-function checkOverflow(el) {
-	var curOverflow = el.style.overflow;
-	
-	if ( !curOverflow || curOverflow === "visible" )
-		el.style.overflow = "hidden";
-	
-	var isOverflowing = el.clientWidth < el.scrollWidth
-	|| el.clientHeight < el.scrollHeight;
-	
-	el.style.overflow = curOverflow;
-	
-	return isOverflowing;
-}
-
 // scrolls to the upcoming entry, allowing for 10min of overlay
 // grays out all the past events
 function scrollToNow() {
@@ -124,12 +106,6 @@ function showBiography(dialogID, biographyID) {
 	
 	var biography = document.getElementById(biographyID);
 	biography.addEventListener("click", (event) => event.stopPropagation());
-	
-	// disable any touch actions if the dialog doesn't have any overflow
-	if (!checkOverflow(biography)) {
-		console.log("disable touch actions on the dialog")
-		// dialog.style.touchAction = "none";
-	}
 };
 
 function closeDialog(dialogID) {
