@@ -16,7 +16,7 @@ public func styles() -> String {
 		<> resetFocusStyle
 		<> headerStyle
 		<> headerScrollbarStyle
-		<> headerPushStyle
+//		<> headerPushStyle
 		<> headerItemStyle
 		<> hrStyle
 		<> entryStyle

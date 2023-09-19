@@ -39,8 +39,8 @@ func body(_ data: [Entry], _ links: [Link]) -> ChildOf<Tag.Html> {
 func header(_ data: [Entry], _ links: [Link]) -> Node {
 	.div(
 		attributes: [.class("header")],
-		.fragment(links |> map § curry ~ headerLink § data)
-		, headerNow()
+		headerNow()
+		, .fragment(links |> map § curry ~ headerLink § data)
 	)
 }
 
