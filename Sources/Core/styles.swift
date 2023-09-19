@@ -155,7 +155,7 @@ let hrStyle = hr % (
 )
 
 let entryStyle = entry % (
-	key("scroll-margin", "5rem")
+	key("scroll-margin", "5.2rem")
 //	.empty
 )
 
