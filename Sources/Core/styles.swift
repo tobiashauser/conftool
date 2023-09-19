@@ -34,6 +34,7 @@ public func styles() -> String {
 		<> dialogStyle
 		<> biographyStyle
 		<> pastEventStyle
+		<> noScrollStyle
 	)
 }
 
@@ -62,6 +63,7 @@ let caption = CssSelector(".caption")
 let dialog = CssSelector("dialog")
 let biography = CssSelector(".biography")
 let pastEvent = CssSelector(".pastEvent")
+let noScroll = CssSelector(".noScroll")
 
 // MARK: Tags
 
@@ -225,7 +227,8 @@ let dialogStyle = dialog % (
 	<> maxWidth(.otherSize("75vw"))
 	<> maxHeight(.otherSize("80vh"))
 	<> key("box-shadow", "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)")
-	<> key("touch-action", "none")
+//	<> key("touch-action", "none")
+	<> key("overscroll-behavior", "none")
 )
 
 let biographyStyle = biography % (
@@ -236,4 +239,8 @@ let biographyStyle = biography % (
 
 let pastEventStyle = pastEvent % (
 	key("color", "gray!important")
+)
+
+let noScrollStyle = noScroll % (
+	overflow(.hidden)
 )

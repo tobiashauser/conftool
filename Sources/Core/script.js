@@ -99,6 +99,9 @@ function showBiography(dialogID, biographyID) {
 		},
 		false,
 	);
+	
+	// add noScroll class to body
+	document.body.classList.add("noScroll");
 
 	var biography = document.getElementById(biographyID);
 	biography.addEventListener("click", (event) => event.stopPropagation());
@@ -108,4 +111,7 @@ function closeDialog(dialogID) {
 	console.log("closeDialog", dialogID)
 	var dialog = document.getElementById(dialogID);
 	dialog.close();
+	
+	// remove noScroll class from body
+	document.body.classList.remove("noScroll");
 };
