@@ -16,7 +16,7 @@ public func styles() -> String {
 		<> resetFocusStyle
 		<> headerStyle
 		<> headerScrollbarStyle
-//		<> headerPushStyle
+		<> headerPushStyle
 		<> headerItemStyle
 		<> hrStyle
 		<> entryStyle
@@ -116,6 +116,7 @@ let hightlightUnderlineStyle = highlightUnderlineHover % (
 let dialogBackdropStyle = dialogBackdrop % (
 	position(.fixed)
 	<> backgroundColor(.rgba(0, 0, 0, 0.4))
+	<> key("touch-action", "none")
 )
 
 let resetFocusStyle = CssSelector("*:focus") % (
@@ -228,13 +229,15 @@ let dialogStyle = dialog % (
 	<> maxHeight(.otherSize("80vh"))
 	<> key("box-shadow", "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)")
 //	<> key("touch-action", "none")
-	<> key("overscroll-behavior", "none")
+	<> key("overscroll-behavior", "contain")
+//	<> key("touch-action", "none")
 )
 
 let biographyStyle = biography % (
 	fontSize(.rem(0.85))
 	<> fontWeight(.w500)
 	<> letterSpacing(.pt(0.3))
+	<> overflow(.scroll)
 )
 
 let pastEventStyle = pastEvent % (
@@ -243,4 +246,5 @@ let pastEventStyle = pastEvent % (
 
 let noScrollStyle = noScroll % (
 	overflow(.hidden)
+	<> key("-webkit-overflow-scrolling", "touch")
 )

@@ -40,7 +40,10 @@ func header(_ data: [Entry], _ links: [Link]) -> Node {
 	.div(
 		attributes: [.class("header")],
 		headerNow()
-		, .fragment(links |> map § curry ~ headerLink § data)
+		, .div(
+			attributes: [.class("push"), .style(safe: "display: inline-flex;")],
+			.fragment(links |> map § curry ~ headerLink § data)
+		)
 	)
 }
 
@@ -64,8 +67,10 @@ func headerLink(_ data: [Entry], _ link: Link) -> Node {
 func headerNow() -> Node {
 	.div(
 		attributes: [
-			.class("push button")
-		, .onclick(safe: "scrollToNow()")
+//			.class("push button")
+			.class("button")
+			, .onclick(safe: "scrollToNow()")
+			, .style(safe: "margin-right: 1em;")
 		],
 		"Jetzt"
 	)
