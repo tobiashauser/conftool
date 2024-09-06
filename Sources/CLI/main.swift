@@ -18,7 +18,7 @@ struct Main: ParsableCommand {
 		abstract: """
 			Build itineraries from conftool data.
 			
-			For the biograpies, export `Alle Autor*innen mit Beiträgen` with all boxes ticked.
+			For the biographies, export `Alle Autor*innen mit Beiträgen` with all boxes ticked.
 			Equally export `Exportiere Sitzungen` with all the boxes ticked for the abstracts.
 			
 			Don't forget to export as a csv-file. Please choose `;` as the delimiter.
@@ -159,8 +159,8 @@ struct Main: ParsableCommand {
 			
 			let (entries, failing) = Core.data(biographies, abstracts, locale: localeData, colors: colorData)
 			
-//			let cwd = try Folder(path: FileManager().currentDirectoryPath)
-			let cwd = try Folder(path: "/Users/tobiashauser/Binder/40-49 Projects/42 Programmieren/42.44 confplan")
+			let cwd = try Folder(path: FileManager().currentDirectoryPath)
+			// let cwd = try Folder(path: "/Users/tobiashauser/Binder/40-49 Projects/42 Programmieren/42.44 confplan")
 			let output = try cwd.createSubfolderIfNeeded(withName: "output")
 			
 			let index = try output.createFileIfNeeded(withName: "index.html")

@@ -16,11 +16,11 @@ let package = Package(
 	],
 	dependencies: [
 		.package(url: "https://github.com/apple/swift-argument-parser.git", .upToNextMajor(from: "1.0.0")),
-		.package(url: "https://github.com/pointfreeco/swift-custom-dump", branch: "main"),
+		// .package(url: "https://github.com/pointfreeco/swift-custom-dump", from: "1.0.0"),
 		.package(url: "https://github.com/JohnSundell/files.git", .upToNextMajor(from: "4.0.0")),
-		.package(path: "/Users/tobiashauser/Binder/40-49 Projects/42 Programmieren/42.32 swift-cadenza/swift-cadenza"),
+		.package(url: "https://github.com/tobiashauser/swift-cadenza", branch: "42.44"),
 		.package(url: "https://github.com/pointfreeco/swift-html", from: "0.4.0"),
-		.package(url: "https://github.com/pointfreeco/swift-web", branch: "master"),
+		.package(url: "https://github.com/tobiashauser/swift-web", branch: "conftool"),
 		.package(url: "https://github.com/swiftcsv/SwiftCSV.git", from: "0.8.0"),
 		.package(url: "https://github.com/YusukeHosonuma/SwiftPrettyPrint", from: "1.2.0"),
 	],
@@ -53,7 +53,7 @@ let package = Package(
 			name: "CoreTests",
 			dependencies: [
 				"Core",
-				.product(name: "CustomDump", package: "swift-custom-dump")
+				// .product(name: "CustomDump", package: "swift-custom-dump")
 			]),
 	]
 )
