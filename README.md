@@ -20,9 +20,10 @@ time;label
 ```
 
 It is possible to define additional entries in much the same way. Create another
-csv-file – with headers!. The columns for "title", "starttime", "endtime" and "location"
+csv-file. The columns for "title", "starttime", "endtime" and "location"
 must be filled in. Additionally you can specify "type", "abstract", "biography" and
-"sessionTitle". Authors are not possible to declare.
+"sessionTitle". Authors are not possible to declare. Hence, its main use is to add 
+one-of events such as evening concerts. 
 
 Furthermore, you can associate colors with the various session types in a csv-file
 as well. Otherwise random colors will be chosen.
